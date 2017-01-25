@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://bots.curation.space/sitemap.xml
