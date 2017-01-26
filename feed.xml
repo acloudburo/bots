@@ -14,7 +14,7 @@
     <link rel="alternate" href="https://bots.curation.space/2017/01/26/wit-ai-bot-engine-key-concepts.html"/>
     <id>https://bots.curation.space/2017/01/26/wit-ai-bot-engine-key-concepts.html</id>
     <published>2017-01-26T21:38:08Z</published>
-    <updated>2017-01-26T21:43:47+00:00</updated>
+    <updated>2017-01-26T22:43:43+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -24,10 +24,10 @@
     &lt;br/&gt;
     They shared their key concept around building a bot engine, grouped around the following questions&lt;br/&gt;
     &lt;br/&gt;
-    Understanding the user intent is a necessary step, but that’s not enough. &lt;br/&gt;
-    How should the bot respond? &lt;br/&gt;
-    What actions should it perform? &lt;br/&gt;
-    What question should it ask? &lt;br/&gt;
+    - What is the user’s intent?&lt;br/&gt;
+    - How should the bot respond?&lt;br/&gt;
+    - What actions should it perform?&lt;br/&gt;
+    - What question should it ask? &lt;br/&gt;
     &lt;br/&gt;
     You can find the full article here:&lt;br/&gt;
     &lt;a href="https://wit.ai/blog/2016/04/12/bot-engine"&gt;Link&lt;/a&gt;&lt;/p&gt;
