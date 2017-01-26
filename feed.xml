@@ -5,7 +5,59 @@
   <id>https://bots.curation.space</id>
   <link href="https://bots.curation.space"/>
   <link href="https://bots.curation.space/feed.xml" rel="self"/>
+  <updated>2017-01-26T21:38:08Z</updated>
   <author>
     <name></name>
   </author>
+  <entry>
+    <title>wit.ai Bot Engine Key Concepts</title>
+    <link rel="alternate" href="https://bots.curation.space/2017/01/26/wit-ai-bot-engine-key-concepts.html"/>
+    <id>https://bots.curation.space/2017/01/26/wit-ai-bot-engine-key-concepts.html</id>
+    <published>2017-01-26T21:38:08Z</published>
+    <updated>2017-01-26T21:43:47+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;      wit.ai released in this article in April 2016, their vision for conversational bots: an early beta of Bot Engine. Since they joined Facebook in 2014 months ago, the Wit community grew from 6,000 to 21,500 developers. &lt;br/&gt;
+    &lt;br/&gt;
+    They shared their key concept around building a bot engine, grouped around the following questions&lt;br/&gt;
+    &lt;br/&gt;
+    Understanding the user intent is a necessary step, but that’s not enough. &lt;br/&gt;
+    How should the bot respond? &lt;br/&gt;
+    What actions should it perform? &lt;br/&gt;
+    What question should it ask? &lt;br/&gt;
+    &lt;br/&gt;
+    You can find the full article here:&lt;br/&gt;
+    &lt;a href="https://wit.ai/blog/2016/04/12/bot-engine"&gt;Link&lt;/a&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>The Bots Landscape evolves</title>
+    <link rel="alternate" href="https://bots.curation.space/2017/01/26/the-bots-landscape-evolves.html"/>
+    <id>https://bots.curation.space/2017/01/26/the-bots-landscape-evolves.html</id>
+    <published>2017-01-26T07:07:37Z</published>
+    <updated>2017-01-26T21:43:46+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;      Amir Shevat from Slack provides an excellent overview how the bot landscape evolved in the recent year.&lt;br/&gt;
+    &lt;br/&gt;
+    The article is accompanied by a bot landscape infographic which provides a good and structured overviw of the market.&lt;br/&gt;
+    His take is that we are still very early in this game, and there are still major hurdles to overcome. We are still exploring the best use cases (and business cases) for bots&lt;br/&gt;
+    The opportunity for the next year of the bot ecosystem is pretty big, and we might start to see winners in a few segments.&lt;br/&gt;
+    &lt;br/&gt;
+    When it comes to bots for work, there are a lot of opportunities to create the next big thing with bots that assist us in all aspects of work: HR, productivity, finance, sales, support, legal, IT, corporate travel, security, and more.&lt;br/&gt;
+    &lt;br/&gt;
+    You can find the article here.&lt;br/&gt;
+    &lt;a href="http://venturebeat.com/2016/11/30/the-bots-landscape-evolves-adds-heavyweights-like-google-assistant-funds-14-more-slack-bots/"&gt;Link&lt;/a&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
 </feed>
