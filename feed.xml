@@ -5,7 +5,31 @@
   <id>https://bots.curation.space</id>
   <link href="https://bots.curation.space"/>
   <link href="https://bots.curation.space/feed.xml" rel="self"/>
+  <updated>2017-01-26T07:07:37Z</updated>
   <author>
     <name></name>
   </author>
+  <entry>
+    <title>The Bots Landscape evolves, adds heavyweights like Google Assistant, funds 14 more Slack bots (by Amir Shevat, Slack)</title>
+    <link rel="alternate" href="https://bots.curation.space/2017/01/26/the-bots-landscape-evolves-adds-heavyweights-like-google-assistant-funds-14-more.html"/>
+    <id>https://bots.curation.space/2017/01/26/the-bots-landscape-evolves-adds-heavyweights-like-google-assistant-funds-14-more.html</id>
+    <published>2017-01-26T07:07:37Z</published>
+    <updated>2017-01-26T07:07:37+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;      Amir Shevat from Slack provides an excellent overview how the bot landscape evolved in the recent year.&lt;br/&gt;
+    &lt;br/&gt;
+    The article is accompanied by a bot landscape infographic which provides a good and structured overviw of the market.&lt;br/&gt;
+    His take is that we are still very early in this game, and there are still major hurdles to overcome. We are still exploring the best use cases (and business cases) for bots&lt;br/&gt;
+    The opportunity for the next year of the bot ecosystem is pretty big, and we might start to see winners in a few segments.&lt;br/&gt;
+    &lt;br/&gt;
+    When it comes to bots for work, there are a lot of opportunities to create the next big thing with bots that assist us in all aspects of work: HR, productivity, finance, sales, support, legal, IT, corporate travel, security, and more.&lt;br/&gt;
+    &lt;a href="http://venturebeat.com/2016/11/30/the-bots-landscape-evolves-adds-heavyweights-like-google-assistant-funds-14-more-slack-bots/"&gt;Link&lt;/a&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
 </feed>
