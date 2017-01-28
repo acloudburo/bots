@@ -5,10 +5,36 @@
   <id>https://bots.curation.space</id>
   <link href="https://bots.curation.space"/>
   <link href="https://bots.curation.space/feed.xml" rel="self"/>
-  <updated>2017-01-27T06:47:23Z</updated>
+  <updated>2017-01-28T07:00:41Z</updated>
   <author>
     <name></name>
   </author>
+  <entry>
+    <title>Understanding bots through 4 interface categories</title>
+    <link rel="alternate" href="https://bots.curation.space/2017/01/28/understanding-bots-through-4-interface-categories.html"/>
+    <id>https://bots.curation.space/2017/01/28/understanding-bots-through-4-interface-categories.html</id>
+    <published>2017-01-28T07:00:41Z</published>
+    <updated>2017-01-28T07:00:42+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;      This article introduces four categories for bots in the area of message-based applications. As the author states&lt;br/&gt;
+    &amp;ldquo;To promote clarity, journalists, technologists, marketers, and business leaders need to choose their words more carefully in the ongoing conversation on chatbots, messenger bots, virtual assistants, conversational UI, and natural language interfaces (just a small sampling of the various labels these phenomena get slapped with).&amp;rdquo;&lt;br/&gt;
+    He is doing that by 4 categories &lt;br/&gt;
+    Click navigation: This is the simplest form of messaging bot. Dispensing altogether with custom text-field and voice input, these bots use images, radio buttons, and scripted text to traverse a logical and preset navigation flow.&lt;br/&gt;
+    Keyword search: These are slightly more advanced bots that can search for keywords found&lt;br/&gt;
+    within text fields or voice search input. Since natural language is not supported, these bots work well for small data sets with a limited number of potential search queries. &lt;br/&gt;
+    Structured phrase matching: Structured phrase matching introduces the notion of natural language understanding (NLU) for short phrases with predictable keyword categories. &lt;br/&gt;
+    Unrestricted natural language: This category presents an experience that is much more akin to a human conversation. Unrestricted natural language interfaces understand natural sentences of any structure, whether spoken or typed, and can engage in multipart, dynamically generated dialogue to disambiguate, complete, and resolve queries.&lt;br/&gt;
+    You can find the full article (which is accompanied by a helpful infographic) by clicking on the link at the end of this article.&lt;br/&gt;
+    &lt;br/&gt;
+    &lt;a href="http://venturebeat.com/2016/09/28/understanding-bots-through-4-interface-categories/"&gt;Link&lt;/a&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>On bots, language and making technology disappear</title>
     <link rel="alternate" href="https://bots.curation.space/2017/01/27/on-bots-language-and-making-technologydisappear.html"/>

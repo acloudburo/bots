@@ -61,6 +61,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://bots.curation.space/2017/01/28/understanding-bots-through-4-interface-categories.html</loc>
+    <lastmod>2017-01-28</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://bots.curation.space/2017/01/26/the-bots-landscape-evolves.html</loc>
     <lastmod>2017-01-26</lastmod>
     <priority>0.7</priority>
@@ -112,6 +118,12 @@
     <loc>https://bots.curation.space/2017/01.html</loc>
     <lastmod>2017-01-26</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://bots.curation.space/2017/01/28.html</loc>
+    <lastmod>2017-01-26</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
