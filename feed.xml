@@ -14,34 +14,41 @@
     <link rel="alternate" href="https://bots.curation.space/2017/02/07/what-we-learned-from-bots-before-they-were-cool.html"/>
     <id>https://bots.curation.space/2017/02/07/what-we-learned-from-bots-before-they-were-cool.html</id>
     <published>2017-02-07T06:05:39Z</published>
-    <updated>2017-02-07T12:24:33+00:00</updated>
+    <updated>2017-02-07T12:30:47+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
     <content type="html">&lt;div class="row"&gt;
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt;      An overview of important bot concepts out of the early days of SMS interactions.&lt;br/&gt;
-    &amp;ldquo;Long before Messenger, Whatsapp and Telegram came on the scene, SMS was the most intimate way for a brand to reach a customer. And we must give credit to the brands that had the foresight to experiment with a new technology across this personal communication channel.&amp;rdquo;&lt;br/&gt;
-    Some key insights developers learned from those early days building bots.&lt;br/&gt;
-    1. Scope and expectations&lt;br/&gt;
+    &lt;br/&gt;
+    &amp;ldquo;Long before Messenger, Whatsapp and Telegram came on the scene, SMS was the most intimate way for a brand to reach a customer. And we must give credit to the brands that had the foresight to experiment with a new technology across this personal communication channel.&amp;rdquo;&lt;br/&gt;
+    Some key insights developers learned from those early days building bots.&lt;br/&gt;
+    &lt;br/&gt;
+    &lt;br/&gt;
+    1. Scope and expectations&lt;br/&gt;
+    &lt;br/&gt;
     It is essential to clearly outline the scope of what the chatbot does, before the user engages with it for the first time. This establishes an appropriate level of expectation ahead of time, and puts the user in a desired frame of mind when communicating with the bot.&lt;br/&gt;
+    &lt;br/&gt;
+    &lt;br/&gt;
     2. Reactive vs Proactive&lt;br/&gt;
+    &lt;br/&gt;
     How a user engages with a bot for the first time will determine the bot’s virality and ultimate adoption. There are three basic approaches.&lt;br/&gt;
     &lt;br/&gt;
-    Reactive bots:&lt;br/&gt;
-    the customer will see an ad and a method to communicate (SMS shortcode, QR scan, etc), giving them the initiative to reach out. This provides a high level of integrity and respect in your brand communication.&lt;br/&gt;
+    Reactive bots: the customer will see an ad and a method to communicate (SMS shortcode, QR scan, etc), giving them the initiative to reach out. This provides a high level of integrity and respect in your brand communication.&lt;br/&gt;
+    Proactive bots: these message the customer first. They are cool because they are unexpected and can drive a much higher initial engagement rate than reactive bots.&lt;br/&gt;
+    Mixed engagement bots: these combine both approaches. The user will send the initial message, showing their interest to engage. The bot will then take them through a conversational experience to learn more about the user, and eventually serve proactive messages as needed.&lt;br/&gt;
     &lt;br/&gt;
-    Proactive bots:&lt;br/&gt;
-    these message the customer first. They are cool because they are unexpected and can drive a much higher initial engagement rate than reactive bots.&lt;br/&gt;
     &lt;br/&gt;
-    Mixed engagement bots:&lt;br/&gt;
-    these combine both approaches. The user will send the initial message, showing their interest to engage. The bot will then take them through a conversational experience to learn more about the user, and eventually serve proactive messages as needed&lt;br/&gt;
     3. Channel&lt;br/&gt;
-    As a consumer brand wanting to play the bot game, it makes sense to be where your users are. Probably living inside&lt;br/&gt;
-    Messenger&lt;br/&gt;
-    , Whatsapp and Snapchat.&lt;br/&gt;
+    &lt;br/&gt;
+    As a consumer brand wanting to play the bot game, it makes sense to be where your users are. Probably living inside Messenger, Whatsapp and Snapchat.&lt;br/&gt;
+    &lt;br/&gt;
+    &lt;br/&gt;
     4. Evaluation and metrics&lt;br/&gt;
-    As with most emerging technologies, there is a period of time with lots of action but not enough palpable insights on what’s actually working. This is why it’s extremely important to establish a way to evaluate and measure the chatbot experience for brands.&lt;br/&gt;
+    &lt;br/&gt;
+    As with most emerging technologies, there is a period of time with lots of action but not enough palpable insights on what’s actually working. This is why it’s extremely important to establish a way to evaluate and measure the chatbot experience for brands.&lt;br/&gt;
+    &lt;br/&gt;
     You can read the full article here&lt;br/&gt;
     &lt;a href="http://venturebeat.com/2016/06/25/what-we-learned-from-bots-before-they-were-cool/"&gt;Link&lt;/a&gt;&lt;/p&gt;
     
