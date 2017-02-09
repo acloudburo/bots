@@ -67,6 +67,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://bots.curation.space/2017/02/09/how-can-chatbots-be-the-future-if-they-are-stuck-in-the-1960s.html</loc>
+    <lastmod>2017-02-09</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://bots.curation.space/2017/02/07/what-we-learned-from-bots-before-they-were-cool.html</loc>
     <lastmod>2017-02-07</lastmod>
     <priority>0.7</priority>
@@ -124,6 +130,12 @@
     <loc>https://bots.curation.space/2017/02.html</loc>
     <lastmod>2017-01-26</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://bots.curation.space/2017/02/09.html</loc>
+    <lastmod>2017-01-26</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
