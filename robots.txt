@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://bots.curation.space/sitemap.xml
+Sitemap: https://botsnews.cloudburo.net/sitemap.xml

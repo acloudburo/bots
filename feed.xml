@@ -2,19 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Bots Rising</title>
   <subtitle></subtitle>
-  <id>https://bots.curation.space</id>
-  <link href="https://bots.curation.space"/>
-  <link href="https://bots.curation.space/feed.xml" rel="self"/>
+  <id>https://botsnews.cloudburo.net</id>
+  <link href="https://botsnews.cloudburo.net"/>
+  <link href="https://botsnews.cloudburo.net/feed.xml" rel="self"/>
   <updated>2017-02-09T06:17:29Z</updated>
   <author>
     <name></name>
   </author>
   <entry>
     <title>How Can Chatbots Be the Future If They Are Stuck in the 1960s?</title>
-    <link rel="alternate" href="https://bots.curation.space/2017/02/09/how-can-chatbots-be-the-future-if-they-are-stuck-in-the-1960s.html"/>
-    <id>https://bots.curation.space/2017/02/09/how-can-chatbots-be-the-future-if-they-are-stuck-in-the-1960s.html</id>
+    <link rel="alternate" href="https://botsnews.cloudburo.net/2017/02/09/how-can-chatbots-be-the-future-if-they-are-stuck-in-the-1960s.html"/>
+    <id>https://botsnews.cloudburo.net/2017/02/09/how-can-chatbots-be-the-future-if-they-are-stuck-in-the-1960s.html</id>
     <published>2017-02-09T06:17:29Z</published>
-    <updated>2017-02-12T10:31:32+00:00</updated>
+    <updated>2017-02-13T09:37:47+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -34,10 +34,10 @@
   </entry>
   <entry>
     <title>What we learned from bots, before they were cool</title>
-    <link rel="alternate" href="https://bots.curation.space/2017/02/07/what-we-learned-from-bots-before-they-were-cool.html"/>
-    <id>https://bots.curation.space/2017/02/07/what-we-learned-from-bots-before-they-were-cool.html</id>
+    <link rel="alternate" href="https://botsnews.cloudburo.net/2017/02/07/what-we-learned-from-bots-before-they-were-cool.html"/>
+    <id>https://botsnews.cloudburo.net/2017/02/07/what-we-learned-from-bots-before-they-were-cool.html</id>
     <published>2017-02-07T06:05:39Z</published>
-    <updated>2017-02-12T10:31:32+00:00</updated>
+    <updated>2017-02-13T09:37:47+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -78,10 +78,10 @@
   </entry>
   <entry>
     <title>Understanding bots through 4 interface categories</title>
-    <link rel="alternate" href="https://bots.curation.space/2017/01/28/understanding-bots-through-4-interface-categories.html"/>
-    <id>https://bots.curation.space/2017/01/28/understanding-bots-through-4-interface-categories.html</id>
+    <link rel="alternate" href="https://botsnews.cloudburo.net/2017/01/28/understanding-bots-through-4-interface-categories.html"/>
+    <id>https://botsnews.cloudburo.net/2017/01/28/understanding-bots-through-4-interface-categories.html</id>
     <published>2017-01-28T07:00:41Z</published>
-    <updated>2017-02-12T10:31:32+00:00</updated>
+    <updated>2017-02-13T09:37:47+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -104,10 +104,10 @@
   </entry>
   <entry>
     <title>On bots, language and making technology disappear</title>
-    <link rel="alternate" href="https://bots.curation.space/2017/01/27/on-bots-language-and-making-technologydisappear.html"/>
-    <id>https://bots.curation.space/2017/01/27/on-bots-language-and-making-technologydisappear.html</id>
+    <link rel="alternate" href="https://botsnews.cloudburo.net/2017/01/27/on-bots-language-and-making-technologydisappear.html"/>
+    <id>https://botsnews.cloudburo.net/2017/01/27/on-bots-language-and-making-technologydisappear.html</id>
     <published>2017-01-27T06:47:23Z</published>
-    <updated>2017-02-12T10:31:32+00:00</updated>
+    <updated>2017-02-13T09:37:47+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -132,10 +132,10 @@
   </entry>
   <entry>
     <title>wit.ai Bot Engine Key Concepts</title>
-    <link rel="alternate" href="https://bots.curation.space/2017/01/26/wit-ai-bot-engine-key-concepts.html"/>
-    <id>https://bots.curation.space/2017/01/26/wit-ai-bot-engine-key-concepts.html</id>
+    <link rel="alternate" href="https://botsnews.cloudburo.net/2017/01/26/wit-ai-bot-engine-key-concepts.html"/>
+    <id>https://botsnews.cloudburo.net/2017/01/26/wit-ai-bot-engine-key-concepts.html</id>
     <published>2017-01-26T21:38:08Z</published>
-    <updated>2017-02-12T10:31:32+00:00</updated>
+    <updated>2017-02-13T09:37:47+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -158,10 +158,10 @@
   </entry>
   <entry>
     <title>The Bots Landscape evolves</title>
-    <link rel="alternate" href="https://bots.curation.space/2017/01/26/the-bots-landscape-evolves.html"/>
-    <id>https://bots.curation.space/2017/01/26/the-bots-landscape-evolves.html</id>
+    <link rel="alternate" href="https://botsnews.cloudburo.net/2017/01/26/the-bots-landscape-evolves.html"/>
+    <id>https://botsnews.cloudburo.net/2017/01/26/the-bots-landscape-evolves.html</id>
     <published>2017-01-26T07:07:37Z</published>
-    <updated>2017-02-12T10:31:32+00:00</updated>
+    <updated>2017-02-13T09:37:47+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
