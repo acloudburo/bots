@@ -5,10 +5,52 @@
   <id>https://botsnews.cloudburo.net</id>
   <link href="https://botsnews.cloudburo.net"/>
   <link href="https://botsnews.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2017-02-09T06:17:29Z</updated>
+  <updated>2017-02-13T11:46:18Z</updated>
   <author>
     <name></name>
   </author>
+  <entry>
+    <title>Are chatbots an evolution or a revolution?</title>
+    <link rel="alternate" href="https://botsnews.cloudburo.net/2017/02/13/are-chatbots-an-evolution-or-a-revolution.html"/>
+    <id>https://botsnews.cloudburo.net/2017/02/13/are-chatbots-an-evolution-or-a-revolution.html</id>
+    <published>2017-02-13T11:46:18Z</published>
+    <updated>2017-02-13T11:46:18+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;      The article will exploit the hype around chatbots and will outline why there aren’t really evidences that it is a revolution but rather an evolution.&lt;br/&gt;
+    &lt;br/&gt;
+    First the article will describe the lessons learnt from China and India. &lt;br/&gt;
+    &lt;br/&gt;
+    &amp;ldquo;To predict how chatbots will evolve, we can look to Asia, a region that has led the West in this space. We’ll use WeChat in China and SMS-based messaging in India as examples …&lt;br/&gt;
+    &lt;br/&gt;
+    … WeChat’s success, though I would argue most of it is not relevant. For example, much of its functionality is through a browser interface rather than a chat interface — hardly a model for the promise of automated chatbots  …&lt;br/&gt;
+    &lt;br/&gt;
+    … Monetization is focused on payments rather than advertising. Messaging apps occupy a highly personal space, and advertising is ill-suited in this space without risking user backlash. Integrated payments, however, are an important additive part of the user workflow …&lt;br/&gt;
+    &lt;br/&gt;
+    … Application-to-person (A2P) SMS messaging in India may be a more relevant precedent for today’s chatbots. In India, A2P messages are a ubiquitous aspect of daily life … &lt;br/&gt;
+    &lt;br/&gt;
+    … This market has evolved in recent years from notification-oriented messages (‘you completed an ATM withdrawal’), to marketing-oriented messages (SMS, not email, is the dominant digital channel), to customer service-oriented messages (‘your order will be delivered today’), and now interaction-oriented messaging (‘tell me my last 3 transactions’).”&lt;br/&gt;
+    &lt;br/&gt;
+    As the writer points out the most successful use cases were lightweight — useful information with little cognitive load given the 160-character limit for SMS.&lt;br/&gt;
+    &lt;br/&gt;
+    He goes on by reflecting on these experiences, there are a few takeaways that argue for a more evolutionary approach for chatbots in the West:&lt;br/&gt;
+    &lt;br/&gt;
+    * Early use cases are likely to be quite simple.&lt;br/&gt;
+    * Rich interaction experiences (e.g., buttons, menus) are required to drive complex use cases.&lt;br/&gt;
+    * Cross-platform support is critical for widespread adoption, and there are already more than a dozen relevant platforms, including Messenger, WhatsApp, Alexa, iMessage, Skype, Slack, SMS, and email.&lt;br/&gt;
+    * Platforms must tread carefully on user acquisition, ensuring it is not too onerous as to hamper growth while ensuring users are not inundated with undesired messages.&lt;br/&gt;
+    * Platforms must self-regulate to resist the pull to make chatbots another marketing channel.&lt;br/&gt;
+    * Payment integration will be a key enabler for consumer monetization.&lt;br/&gt;
+    &lt;br/&gt;
+    Read the full article including the Opportunities section here.&lt;br/&gt;
+    &lt;a href="http://venturebeat.com/2016/09/01/are-chatbots-an-evolution-or-a-revolution/"&gt;Link&lt;/a&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>How Can Chatbots Be the Future If They Are Stuck in the 1960s?</title>
     <link rel="alternate" href="https://botsnews.cloudburo.net/2017/02/09/how-can-chatbots-be-the-future-if-they-are-stuck-in-the-1960s.html"/>
