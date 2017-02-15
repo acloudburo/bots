@@ -55,6 +55,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://botsnews.cloudburo.net/2017/02/15/note-conflict-sharing-a-url-with-a-query-string-on-twitter-stack-overflow.html</loc>
+    <lastmod>2017-02-15</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://botsnews.cloudburo.net/2017/01/27/on-bots-language-and-making-technologydisappear.html</loc>
     <lastmod>2017-02-13</lastmod>
     <priority>0.7</priority>
@@ -75,6 +81,12 @@
   <url>
     <loc>https://botsnews.cloudburo.net/2017/02/07/what-we-learned-from-bots-before-they-were-cool.html</loc>
     <lastmod>2017-02-13</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://botsnews.cloudburo.net/2017/02/15/sharing-a-url-with-a-query-string-on-twitter-stack-overflow.html</loc>
+    <lastmod>2017-02-15</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
   </url>

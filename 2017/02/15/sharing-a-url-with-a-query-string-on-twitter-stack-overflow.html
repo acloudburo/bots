@@ -1,0 +1,1111 @@
+<!doctype html> 
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta content="IE=edge" http-equiv="X-UA-Compatible" />
+    <title>Bots Rising | Sharing a URL with a query string on Twitter - Stack Overflow</title>
+    <meta content="width=device-width, initial-scale=1" name="viewport" />
+    <link rel="alternate" type="application/atom+xml" title="Atom Feed" href="/feed.xml" /><!--[if lt IE 9]><script src="../../../js/ie8.js" type="text/javascript"></script><![endif]--><link href="../../../css/all.css" media="screen" rel="stylesheet" type="text/css" /><script type="text/javascript">
+      (function(d,e,j,h,f,c,b){d.GoogleAnalyticsObject=f;d[f]=d[f]||function(){(d[f].q=d[f].q||[]).push(arguments)},d[f].l=1*new Date();c=e.createElement(j),b=e.getElementsByTagName(j)[0];c.async=1;c.src=h;b.parentNode.insertBefore(c,b)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create","UA-89386900-3", location.hostname);ga("send","pageview");
+    </script>
+    <link href="/favicon.png" rel="icon" type="image/png" />
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries --><!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="navbar navbar-material-blog navbar-danger navbar-absolute-top">
+      <div class="navbar-image" style="background-image: url(/images/5918872ca7f5880572f73df87a9147d7.jpeg);background-position: center 40%;"></div>
+      <div class="navbar-wrapper container">
+        <div class="navbar-header">
+          <button class="navbar-toggle" data-target=".navbar-responsive-collapse" data-toggle="collapse" type="button"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a class="navbar-brand" href="/index.html">Bots Rising</a>
+        </div>
+        <div class="navbar-collapse collapse navbar-responsive-collapse">
+          <ul class="nav navbar-nav">
+            <li>
+              <a href="/menu1.html"> About  </a>
+            </li>
+            <li class="dropdown">
+              <a class="dropdown-toggle" data-target="#" data-toggle="dropdown" href="#">Categories <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li>
+                  <a href="/tags/chat.html">chat (1)</a>
+                </li>
+                <li>
+                  <a href="/tags/concepts.html">concepts (3)</a>
+                </li>
+                <li>
+                  <a href="/tags/conversational.html">conversational (3)</a>
+                </li>
+                <li>
+                  <a href="/tags/reflection.html">reflection (1)</a>
+                </li>
+              </ul>
+            </li>
+            <li class="dropdown">
+              <a class="dropdown-toggle" data-target="#" data-toggle="dropdown" href="#">By Year <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li>
+                  <a href="/2017.html">2017 (10)</a>
+                </li>
+              </ul>
+            </li>
+          </ul>
+          <ul class="nav navbar-nav navbar-right">
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="container blog-content">
+      <div class="row"><div class="col-sm-8 blog-main">
+  <section class="blog-post">
+    <div class="panel panel-default">
+      <div class="panel-body">
+        <h2 class="blog-post-title blog-post-title-article">
+          Sharing a URL with a query string on Twitter - Stack Overflow
+        </h2>
+        <div class="blog-post-meta">
+          <p class="blog-post-date pull-right">
+            Feb 15
+          </p>
+        </div>
+        <div class="blog-post-content"><div class="row">
+  <div class="article"><p><span/></p>
+
+<p><div style="font-size: 16px;">
+   <div style="font-size:100%;">
+    <div style="font-size:13px;color:rgb(36, 39, 41);">
+     <div style="font-size:100%;">
+      <div style="font-size:100%;background-color:rgb(255, 255, 255);">
+       <div style="font-size:100%;">
+        <div style="font-size:100%;">
+         <div style="font-size:100%;">
+          <div style="font-size:100%;">
+           <a href="http://engine.adzerk.net/r?e=eyJhdiI6NDE0LCJhdCI6NCwiYnQiOjAsImNtIjo0NzE0OTMsImNoIjoxMTc4LCJjayI6e30sImNyIjoxODUzNTU4LCJkaSI6ImI1ZjY2OWUwOTMxZjQ0NGFiMTk4N2EzNzQ3ZmY0M2Q4IiwiZG0iOjEsImZjIjoyMjIzNDk1LCJmbCI6MjE0MjMxMiwiaXAiOiIzMS42LjQyLjIyNiIsImt3IjoidHdpdHRlcixxdWVyeS1zdHJpbmcsc2hhcmUsdXJsLWVuY29kaW5nIiwibnciOjIyLCJwYyI6MCwiZWMiOjAsInByIjoxNjA0LCJydCI6MSwic3QiOjgyNzcsInVrIjoidWUxLWVhNTRhYmVjYWNkYzQ0ZGNhZWFmOGIzMzFhMTY0NjNhIiwiem4iOjQzLCJ0cyI6MTQ4NzAwNDYyMzcwOCwiYmYiOnRydWUsInBuIjoiYWR6ZXJrMjU0Nzk2MDU1IiwidXIiOiJodHRwOi8vc3RhY2tvdmVyZmxvdy5jb20vam9icz91dG1fc291cmNlPXdlYnNpdGUmdXRtX21lZGl1bT1iYW5uZXImdXRtX2NvbnRlbnQ9bGVhZGVyYm9hcmRfNiZ1dG1fY2FtcGFpZ249aG91c2VfYWRzX2hvdXNlX2Fkc19ST1NfU08ifQ&amp;s=yg-OlizbR8DmMvvgAcvKmcBLeOk" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(0, 119, 204);text-decoration:none;cursor:pointer;"><img src="http://static.adzerk.net/Advertisers/26fa7bbd485048c7bdcaf5304f04a149.png" title="" alt="" width="728" height="90" style="margin:0px;padding:0px;border:0px;font-size:100%;"></a>
+           <img height="0px" width="0px" src="http://engine.adzerk.net/i.gif?e=eyJhdiI6NDE0LCJhdCI6NCwiYnQiOjAsImNtIjo0NzE0OTMsImNoIjoxMTc4LCJjayI6e30sImNyIjoxODUzNTU4LCJkaSI6ImI1ZjY2OWUwOTMxZjQ0NGFiMTk4N2EzNzQ3ZmY0M2Q4IiwiZG0iOjEsImZjIjoyMjIzNDk1LCJmbCI6MjE0MjMxMiwiaXAiOiIzMS42LjQyLjIyNiIsImt3IjoidHdpdHRlcixxdWVyeS1zdHJpbmcsc2hhcmUsdXJsLWVuY29kaW5nIiwibnciOjIyLCJwYyI6MCwiZWMiOjAsInByIjoxNjA0LCJydCI6MSwic3QiOjgyNzcsInVrIjoidWUxLWVhNTRhYmVjYWNkYzQ0ZGNhZWFmOGIzMzFhMTY0NjNhIiwiem4iOjQzLCJ0cyI6MTQ4NzAwNDYyMzcwOSwiYmYiOnRydWUsInBuIjoiYWR6ZXJrMjU0Nzk2MDU1IiwiZnEiOjB9&amp;s=knuj676ucuDiHuqrh0-X3CK9f8A" style="margin:0px;padding:0px;border:0px;font-size:100%;position:absolute;">
+          </div>
+          <table style="font-size:100%;">
+           <tbody>
+            <tr style="font-size:100%;">
+             <td style="font-size:100%;">
+              <div style="font-size:100%;">
+               <a style="font-size:1px;color:rgb(0, 119, 204);text-decoration:none;">up vote</a>
+               <span style="font-size:20px;color:rgb(106, 115, 124);">59</span>
+               <a style="font-size:1px;color:rgb(0, 119, 204);text-decoration:none;">down vote</a>
+               <a href="http://stackoverflow.com/questions/6208363/sharing-a-url-with-a-query-string-on-twitter#" style="margin:0px auto 2px;padding:0px;border:0px;font-size:1px;color:rgb(0, 119, 204);text-decoration:none;cursor:pointer;background-image:url(&amp;quot;https://cdn.sstatic.net/Sites/stackoverflow/url(\&amp;quot;img/sprites.svg?v=d689de80c4e2\&amp;quot;)&quot;), none;background-size:initial;background-repeat:no-repeat;overflow:hidden;display:block;text-indent:-9999em;width:40px;height:30px;background-position:0px -120px;">favorite</a>
+               <div style="font-size:100%;">
+                <b style="font-size:100%;color:rgb(106, 115, 124);">18</b>
+               </div>
+              </div> </td>
+             <td style="font-size:100%;">
+              <div style="font-size:100%;">
+               <div style="font-size:15px;">
+                <p style="font-size:100%;">I&rsquo;m trying to put a Twitter share link in an email. Because this is in an email I can&rsquo;t rely on JavaScript, and have to use the &ldquo;Build Your Own&rdquo; Tweet button.</p>
+                <p style="font-size:100%;">For example, sharing a link to Google:</p>
+                <pre style="font-size:13px;background-color:rgb(239, 240, 241);"><code style="font-size:13px;background-color:rgb(239, 240, 241);">&lt;a href=&quot;<a href="http://www.twitter.com/share?url=http://www.google.com/&amp;gt;Tweet&amp;lt;/a">http://www.twitter.com/share?url=http://www.google.com/&amp;gt;Tweet&amp;lt;/a</a>&gt;
+</code></pre>
+                <p style="font-size:100%;">This works fine. The problem I&rsquo;m having is when the URL has a query string.</p>
+                <pre style="font-size:13px;background-color:rgb(239, 240, 241);"><code style="font-size:13px;background-color:rgb(239, 240, 241);">&lt;a href=&quot;<a href="http://www.twitter.com/share?url=http://mysite.org/foo.htm?bar=123&amp;amp;baz=456%22&amp;gt;Tweet&amp;lt;/a">http://www.twitter.com/share?url=http://mysite.org/foo.htm?bar=123&amp;amp;baz=456&quot;&amp;gt;Tweet&amp;lt;/a</a>&gt;
+</code></pre>
+                <p style="font-size:100%;">URLs with query strings confuse Twitter&rsquo;s URL shortening service, t.co. I&rsquo;ve tried URL encoding this in various ways and cannot get anything to work. The closest I have gotten is by doing this.</p>
+                <pre style="font-size:13px;background-color:rgb(239, 240, 241);"><code style="font-size:13px;background-color:rgb(239, 240, 241);">&lt;a href=&quot;<a href="http://www.twitter.com/share?url=http://mysite.org/foo.htm%3Fbar%3D123%26baz%3D456%22&amp;gt;Tweet&amp;lt;/a">http://www.twitter.com/share?url=http://mysite.org/foo.htm%3Fbar%3D123%26baz%3D456&quot;&amp;gt;Tweet&amp;lt;/a</a>&gt;
+</code></pre>
+                <p style="font-size:100%;">Here I&rsquo;ve encoded only the query string. When I do this, t.co successfully shortens the URL, but upon following the shortened link, it takes you to the encoded URL. I see <code style="font-size:13px;background-color:rgb(239, 240, 241);"><a href="http://mysite.org/foo.htm%3Fbar%3D123%26baz%3D456">http://mysite.org/foo.htm%3Fbar%3D123%26baz%3D456</a></code> in the address bar, and get the following error in the browser</p>
+                <blockquote style="font-size:100%;background-color:rgb(255, 248, 220);">
+                 <span style="font-size:100%;"></span>
+                 <p style="font-size:100%;">Not Found</p>
+                 <p style="font-size:100%;">The requested URL /foo.htm?bar=123&amp;baz=456 was not found on this server.</p>
+                 <span style="font-size:100%;"></span>
+                </blockquote>
+                <p style="font-size:100%;">I&rsquo;m at a loss as to how to solve this problem.</p>
+                <p style="font-size:100%;"><strong style="font-size:100%;">Edit:</strong> Re: onteria_</p>
+                <p style="font-size:100%;">I&rsquo;ve tried encoding the entire URL. When I do that no URL shows up in the Tweet.</p>
+               </div>
+               <div style="font-size:100%;">
+                <a href="http://stackoverflow.com/questions/tagged/twitter" style="margin:2px 2px 2px 0px;padding:0.4em 0.5em;border:0px;font-size:12px;color:rgb(57, 115, 157);text-decoration:none;cursor:pointer;position:relative;display:inline-block;line-height:1;white-space:nowrap;text-align:center;border-width:1px;border-style:solid;border-radius:0px;transition:all 0.15s ease-in-out;background-color:rgb(225, 236, 244);border-color:transparent;">twitter</a>
+                <a href="http://stackoverflow.com/questions/tagged/query-string" style="margin:2px 2px 2px 0px;padding:0.4em 0.5em;border:0px;font-size:12px;color:rgb(57, 115, 157);text-decoration:none;cursor:pointer;position:relative;display:inline-block;line-height:1;white-space:nowrap;text-align:center;border-width:1px;border-style:solid;border-radius:0px;transition:all 0.15s ease-in-out;background-color:rgb(225, 236, 244);border-color:transparent;">query-string</a>
+                <a href="http://stackoverflow.com/questions/tagged/share" style="margin:2px 2px 2px 0px;padding:0.4em 0.5em;border:0px;font-size:12px;color:rgb(57, 115, 157);text-decoration:none;cursor:pointer;position:relative;display:inline-block;line-height:1;white-space:nowrap;text-align:center;border-width:1px;border-style:solid;border-radius:0px;transition:all 0.15s ease-in-out;background-color:rgb(225, 236, 244);border-color:transparent;">share</a>
+                <a href="http://stackoverflow.com/questions/tagged/url-encoding" style="margin:2px 2px 2px 0px;padding:0.4em 0.5em;border:0px;font-size:12px;color:rgb(57, 115, 157);text-decoration:none;cursor:pointer;position:relative;display:inline-block;line-height:1;white-space:nowrap;text-align:center;border-width:1px;border-style:solid;border-radius:0px;transition:all 0.15s ease-in-out;background-color:rgb(225, 236, 244);border-color:transparent;">url-encoding</a>
+               </div>
+               <table style="font-size:100%;">
+                <tbody>
+                 <tr style="font-size:100%;">
+                  <td style="font-size:100%;">
+                   <div style="font-size:100%;">
+                    <a href="http://stackoverflow.com/q/6208363" style="margin:0px;padding:0px 3px 2px;border:0px;font-size:100%;color:rgb(132, 141, 149);text-decoration:none;cursor:pointer;display:inline-block;">share</a>
+                    <span style="font-size:1px;color:rgb(27, 64, 114);">|</span>
+                    <a href="http://stackoverflow.com/posts/6208363/edit" style="margin:0px;padding:0px 3px 2px;border:0px;font-size:100%;color:rgb(132, 141, 149);text-decoration:none;cursor:pointer;display:inline-block;">improve this question</a>
+                   </div> </td>
+                  <td style="font-size:100%;">
+                   <div style="font-size:100%;color:rgb(106, 115, 124);">
+                    <span style="font-size:100%;color:rgb(106, 115, 124);"></span>
+                    <div style="font-size:12px;">
+                     <a href="http://stackoverflow.com/posts/6208363/revisions" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(0, 119, 204);text-decoration:none;cursor:pointer;">edited <span style="font-size:100%;text-decoration:none;">Jun 1 &lsquo;11 at 22:23</span></a>
+                    </div>
+                    <div style="font-size:100%;">
+                    </div>
+                    <div style="font-size:100%;">
+                     <div style="font-size:100%;">
+                     </div>
+                    </div>
+                    <span style="font-size:100%;color:rgb(106, 115, 124);"></span>
+                   </div> </td>
+                  <td style="font-size:100%;background-color:rgb(224, 234, 241);">
+                   <div style="font-size:100%;color:rgb(106, 115, 124);">
+                    <span style="font-size:100%;color:rgb(106, 115, 124);"></span>
+                    <div style="font-size:12px;">
+                      asked
+                     <span style="font-size:100%;text-decoration:none;">Jun 1 &#39;11 at 22:13</span>
+                    </div>
+                    <div style="font-size:100%;">
+                     <a href="http://stackoverflow.com/users/374953/haydenmuhl" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(0, 119, 204);text-decoration:none;cursor:pointer;">
+                      <div style="font-size:100%;">
+                       <img src="https://www.gravatar.com/avatar/ccd96642ef179a299a180d902dd16186?s=32&amp;d=identicon&amp;r=PG" alt="" width="32" height="32" style="margin:0px auto;padding:0px;border:0px;font-size:100%;width:32px;height:32px;border-radius:1px;">
+                      </div></a>
+                    </div>
+                    <div style="font-size:100%;">
+                     <a href="http://stackoverflow.com/users/374953/haydenmuhl" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(0, 119, 204);text-decoration:none;cursor:pointer;">haydenmuhl</a>
+                     <div style="font-size:100%;">
+                      <span style="font-size:12px;">2,771</span>
+                      <span style="font-size:100%;"><span style="font-size:100%;"></span><span style="font-size:12px;color:rgb(106, 115, 124);">3</span></span>
+                      <span style="font-size:100%;"><span style="font-size:100%;"></span><span style="font-size:12px;color:rgb(106, 115, 124);">18</span></span>
+                      <span style="font-size:100%;"><span style="font-size:100%;"></span><span style="font-size:12px;color:rgb(106, 115, 124);">30</span></span>
+                     </div>
+                    </div>
+                    <span style="font-size:100%;color:rgb(106, 115, 124);"></span>
+                   </div> </td>
+                 </tr>
+                </tbody>
+               </table>
+              </div> </td>
+            </tr>
+            <tr style="font-size:100%;">
+             <td style="font-size:100%;"></td>
+             <td style="font-size:100%;">
+              <div style="font-size:100%;-webkit-tap-highlight-color:rgba(255, 255, 255, 0);">
+               <table style="font-size:100%;">
+                <tbody>
+                 <tr style="font-size:100%;">
+                  <td style="font-size:100%;">
+                   <table style="font-size:100%;">
+                    <tbody>
+                     <tr style="font-size:100%;">
+                      <td style="font-size:100%;"> <span style="font-size:13px;color:rgb(145, 153, 161);">1</span> </td>
+                      <td style="font-size:100%;">   </td>
+                     </tr>
+                    </tbody>
+                   </table> </td>
+                  <td style="font-size:13px;">
+                   <div style="font-size:100%;">
+                    <span style="font-size:100%;">You need to url encode the ENTIRE URL. That includes everything from the <code style="font-size:100%;background-color:rgb(239, 240, 241);">http://</code> down</span> – 
+                    <a href="http://stackoverflow.com/users/742496/onteria" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(0, 119, 204);text-decoration:none;cursor:pointer;white-space:nowrap;">onteria_</a>
+                    <span style="font-size:100%;color:rgb(145, 153, 161);"><a href="http://stackoverflow.com/questions/6208363/sharing-a-url-with-a-query-string-on-twitter#comment7227261_6208363" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(145, 153, 161);text-decoration:none;cursor:pointer;border-bottom:none;"><span style="font-size:100%;">Jun 1 &#39;11 at 22:15</span></a></span>
+                   </div> </td>
+                 </tr>
+                </tbody>
+               </table>
+              </div>
+              <div style="font-size:100%;">
+               <a style="font-size:100%;color:rgb(132, 141, 149);text-decoration:none;">add a comment</a>
+              </div> </td>
+            </tr>
+           </tbody>
+          </table>
+         </div>
+         <div style="font-size:100%;">
+          <a style="font-size:100%;color:rgb(0, 119, 204);text-decoration:none;"></a>
+          <div style="font-size:100%;">
+           <div style="font-size:100%;">
+             8 Answers
+            <div style="font-size:100%;">
+             <div style="font-size:100%;">
+              <a href="http://stackoverflow.com/questions/6208363/sharing-a-url-with-a-query-string-on-twitter?answertab=active#tab-top" style="margin:0px;padding:13px 10px;border:1px solid transparent;font-size:12px;color:rgb(132, 141, 149);text-decoration:none;cursor:pointer;float:left;margin-right:8px;line-height:1;border-bottom:2px solid transparent;transition:all 0.15s ease-in-out;position:relative;background-color:rgb(255, 255, 255);"><span style="font-size:12px;color:rgb(132, 141, 149);background-color:transparent;"></span> active</a>
+              <a href="http://stackoverflow.com/questions/6208363/sharing-a-url-with-a-query-string-on-twitter?answertab=oldest#tab-top" style="margin:0px;padding:13px 10px;border:1px solid transparent;font-size:12px;color:rgb(132, 141, 149);text-decoration:none;cursor:pointer;float:left;margin-right:8px;line-height:1;border-bottom:2px solid transparent;transition:all 0.15s ease-in-out;position:relative;background-color:rgb(255, 255, 255);"><span style="font-size:12px;color:rgb(132, 141, 149);background-color:transparent;"></span> oldest</a>
+              <a href="http://stackoverflow.com/questions/6208363/sharing-a-url-with-a-query-string-on-twitter?answertab=votes#tab-top" style="margin:0px;padding:13px 10px;border:1px solid transparent;font-size:12px;color:rgb(36, 39, 41);text-decoration:none;cursor:pointer;float:left;margin-right:0px;line-height:1;border-bottom:2px solid transparent;transition:all 0.15s ease-in-out;position:relative;background-color:rgb(255, 255, 255);font-weight:400;border-bottom-color:rgb(36, 39, 41);padding-bottom:14px;border-color:rgb(228, 230, 232) rgb(228, 230, 232) transparent;"><span style="font-size:12px;color:rgb(36, 39, 41);background-color:rgb(246, 156, 85);"></span> votes</a>
+             </div>
+            </div>
+           </div>
+          </div>
+          <a style="font-size:100%;color:rgb(0, 119, 204);text-decoration:none;"></a>
+          <div style="font-size:100%;">
+           <table style="font-size:100%;">
+            <tbody>
+             <tr style="font-size:100%;">
+              <td style="font-size:100%;">
+               <div style="font-size:100%;">
+                <a style="font-size:1px;color:rgb(0, 119, 204);text-decoration:none;">up vote</a>
+                <span style="font-size:20px;color:rgb(106, 115, 124);">72</span>
+                <a style="font-size:1px;color:rgb(0, 119, 204);text-decoration:none;">down vote</a>
+               </div> </td>
+              <td style="font-size:100%;">
+               <div style="font-size:15px;">
+                <p style="font-size:100%;">This will Work For You</p>
+                <pre style="font-size:13px;background-color:rgb(239, 240, 241);"><code style="font-size:13px;background-color:rgb(239, 240, 241);"><a href="http://twitter.com/share?text=text">http://twitter.com/share?text=text</a> goes here&amp;url=<a href="http://url">http://url</a> goes here&amp;hashtags=hashtag1,hashtag2,hashtag3
+</code></pre>
+                <p style="font-size:100%;">Here is a Live Example About it</p>
+                <p style="font-size:100%;"><a href="http://twitter.com/share?text=Im%20Sharing%20on%20Twitter&amp;url=http://stackoverflow.com/users/2943186/youssef-subehi&amp;hashtags=stackoverflow,example,youssefusf" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(0, 119, 204);text-decoration:none;cursor:pointer;"><a href="http://twitter.com/share?text=Im">http://twitter.com/share?text=Im</a> Sharing on Twitter&amp;url=<a href="http://stackoverflow.com/users/2943186/youssef-subehi&amp;amp;hashtags=stackoverflow,example,youssefusf">http://stackoverflow.com/users/2943186/youssef-subehi&amp;amp;hashtags=stackoverflow,example,youssefusf</a></a></p>
+               </div>
+               <table style="font-size:100%;">
+                <tbody>
+                 <tr style="font-size:100%;">
+                  <td style="font-size:100%;">
+                   <div style="font-size:100%;">
+                    <a href="http://stackoverflow.com/a/20832477" style="margin:0px;padding:0px 3px 2px;border:0px;font-size:100%;color:rgb(132, 141, 149);text-decoration:none;cursor:pointer;display:inline-block;">share</a>
+                    <span style="font-size:1px;color:rgb(27, 64, 114);">|</span>
+                    <a href="http://stackoverflow.com/posts/20832477/edit" style="margin:0px;padding:0px 3px 2px;border:0px;font-size:100%;color:rgb(132, 141, 149);text-decoration:none;cursor:pointer;display:inline-block;">improve this answer</a>
+                   </div> </td>
+                  <td style="font-size:100%;">
+                   <div style="font-size:100%;color:rgb(106, 115, 124);">
+                    <span style="font-size:100%;color:rgb(106, 115, 124);"></span>
+                    <div style="font-size:12px;">
+                      answered
+                     <span style="font-size:100%;text-decoration:none;">Dec 30 &#39;13 at 2:25</span>
+                    </div>
+                    <div style="font-size:100%;">
+                     <a href="http://stackoverflow.com/users/2943186/youssef-subehi" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(0, 119, 204);text-decoration:none;cursor:pointer;">
+                      <div style="font-size:100%;">
+                       <img src="https://www.gravatar.com/avatar/f111843b46abff699359355281e377b8?s=32&amp;d=identicon&amp;r=PG&amp;f=1" alt="" width="32" height="32" style="margin:0px auto;padding:0px;border:0px;font-size:100%;width:32px;height:32px;border-radius:1px;">
+                      </div></a>
+                    </div>
+                    <div style="font-size:100%;">
+                     <a href="http://stackoverflow.com/users/2943186/youssef-subehi" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(0, 119, 204);text-decoration:none;cursor:pointer;">Youssef Subehi</a>
+                     <div style="font-size:100%;">
+                      <span style="font-size:12px;">1,000</span>
+                      <span style="font-size:100%;"><span style="font-size:100%;"></span><span style="font-size:12px;color:rgb(106, 115, 124);">6</span></span>
+                      <span style="font-size:100%;"><span style="font-size:100%;"></span><span style="font-size:12px;color:rgb(106, 115, 124);">16</span></span>
+                     </div>
+                    </div>
+                    <span style="font-size:100%;color:rgb(106, 115, 124);"></span>
+                   </div> </td>
+                 </tr>
+                </tbody>
+               </table> </td>
+             </tr>
+             <tr style="font-size:100%;">
+              <td style="font-size:100%;"></td>
+              <td style="font-size:100%;">
+               <div style="font-size:100%;-webkit-tap-highlight-color:rgba(255, 255, 255, 0);">
+                <table style="font-size:100%;">
+                 <tbody>
+                  <tr style="font-size:100%;">
+                   <td style="font-size:100%;">
+                    <table style="font-size:100%;">
+                     <tbody>
+                      <tr style="font-size:100%;">
+                       <td style="font-size:100%;">    </td>
+                       <td style="font-size:100%;">   </td>
+                      </tr>
+                     </tbody>
+                    </table> </td>
+                   <td style="font-size:13px;">
+                    <div style="font-size:100%;">
+                     <span style="font-size:100%;">Thank you, it&rsquo;s working like charm :D</span> – 
+                     <a href="http://stackoverflow.com/users/1419507/romans-8-38-39" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(0, 119, 204);text-decoration:none;cursor:pointer;white-space:nowrap;">Romans 8.38-39</a>
+                     <span style="font-size:100%;color:rgb(145, 153, 161);"><a href="http://stackoverflow.com/questions/6208363/sharing-a-url-with-a-query-string-on-twitter#comment37317754_20832477" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(145, 153, 161);text-decoration:none;cursor:pointer;border-bottom:none;"><span style="font-size:100%;">Jun 12 &#39;14 at 4:44</span></a></span>
+                    </div> </td>
+                  </tr>
+                  <tr style="font-size:100%;">
+                   <td style="font-size:100%;">
+                    <table style="font-size:100%;">
+                     <tbody>
+                      <tr style="font-size:100%;">
+                       <td style="font-size:100%;">    </td>
+                       <td style="font-size:100%;">   </td>
+                      </tr>
+                     </tbody>
+                    </table> </td>
+                   <td style="font-size:13px;">
+                    <div style="font-size:100%;">
+                     <span style="font-size:100%;">Any ideas on making the url dynamic depending on the page just using javascript?</span> – 
+                     <a href="http://stackoverflow.com/users/79523/toughpal" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(0, 119, 204);text-decoration:none;cursor:pointer;white-space:nowrap;">ToughPal</a>
+                     <span style="font-size:100%;color:rgb(145, 153, 161);"><a href="http://stackoverflow.com/questions/6208363/sharing-a-url-with-a-query-string-on-twitter#comment42490425_20832477" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(145, 153, 161);text-decoration:none;cursor:pointer;border-bottom:none;"><span style="font-size:100%;">Nov 17 &#39;14 at 17:04</span></a></span>
+                    </div> </td>
+                  </tr>
+                  <tr style="font-size:100%;">
+                   <td style="font-size:100%;">
+                    <table style="font-size:100%;">
+                     <tbody>
+                      <tr style="font-size:100%;">
+                       <td style="font-size:100%;">    </td>
+                       <td style="font-size:100%;">   </td>
+                      </tr>
+                     </tbody>
+                    </table> </td>
+                   <td style="font-size:13px;">
+                    <div style="font-size:100%;">
+                     <span style="font-size:100%;">for those of you that want a customized twitter share pop up use this code with his url: // OPEN A POP UP WINDOW function popupwindow(url, title, w, h) { var left = (screen.width/2)-(w/2); var top = (screen.height/2)-(h/2); var fenster = window.open(url, title, &#39;toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width=&rsquo;+w+&lsquo;, height=&rsquo;+h+&lsquo;, top=&rsquo;+top+&lsquo;, left=&rsquo;+left); fenster.focus(); }</span> – 
+                     <a href="http://stackoverflow.com/users/3457769/sakramento" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(0, 119, 204);text-decoration:none;cursor:pointer;white-space:nowrap;">Sakramento</a>
+                     <span style="font-size:100%;color:rgb(145, 153, 161);"><a href="http://stackoverflow.com/questions/6208363/sharing-a-url-with-a-query-string-on-twitter#comment47331109_20832477" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(145, 153, 161);text-decoration:none;cursor:pointer;border-bottom:none;"><span style="font-size:100%;">Apr 12 &lsquo;15 at 17:04</span></a></span>
+                     <span style="font-size:100%;"></span>
+                    </div> </td>
+                  </tr>
+                 </tbody>
+                </table>
+               </div>
+               <div style="font-size:100%;">
+                <a style="font-size:100%;color:rgb(132, 141, 149);text-decoration:none;">add a comment</a>
+               </div> </td>
+             </tr>
+            </tbody>
+           </table>
+          </div>
+          <div style="font-size:13px;background-color:rgb(250, 250, 251);">
+           <img src="https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon.png?v=c78bd457575a" width="64" height="64" style="margin:0px;padding:0px;border:0px;font-size:100%;width:64px;height:64px;float:left;">
+           <div style="font-size:100%;">
+             Did you find this question interesting? Try our newsletter
+            <p style="font-size:100%;"> Sign up for our newsletter and get our top new questions delivered to your inbox (<a href="http://stackexchange.com/newsletters/newsletter?site=stackoverflow.com" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(0, 119, 204);text-decoration:none;cursor:pointer;">see an example</a>). </p>
+            <div style="font-size:100%;">
+            </div>
+           </div>
+          </div>
+          <a style="font-size:100%;color:rgb(0, 119, 204);text-decoration:none;"></a>
+          <div style="font-size:100%;">
+           <table style="font-size:100%;">
+            <tbody>
+             <tr style="font-size:100%;">
+              <td style="font-size:100%;">
+               <div style="font-size:100%;">
+                <a style="font-size:1px;color:rgb(0, 119, 204);text-decoration:none;">up vote</a>
+                <span style="font-size:20px;color:rgb(106, 115, 124);">71</span>
+                <a style="font-size:1px;color:rgb(0, 119, 204);text-decoration:none;">down vote</a>
+                <span style="font-size:1px;color:rgb(106, 115, 124);">accepted</span>
+               </div> </td>
+              <td style="font-size:100%;">
+               <div style="font-size:15px;">
+                <p style="font-size:100%;">This can be solved by using <code style="font-size:13px;background-color:rgb(239, 240, 241);"><a href="https://twitter.com/intent/tweet">https://twitter.com/intent/tweet</a></code> instead of <code style="font-size:13px;background-color:rgb(239, 240, 241);"><a href="http://www.twitter.com/share">http://www.twitter.com/share</a></code>. Using the <code style="font-size:13px;background-color:rgb(239, 240, 241);">intent/tweet</code> function, you simply URL encode your entire URL and it works like a charm.</p>
+                <p style="font-size:100%;"><a href="https://dev.twitter.com/web/intents" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(0, 119, 204);text-decoration:none;cursor:pointer;"><a href="https://dev.twitter.com/web/intents">https://dev.twitter.com/web/intents</a></a></p>
+               </div>
+               <table style="font-size:100%;">
+                <tbody>
+                 <tr style="font-size:100%;">
+                  <td style="font-size:100%;">
+                   <div style="font-size:100%;">
+                    <a href="http://stackoverflow.com/a/6208612" style="margin:0px;padding:0px 3px 2px;border:0px;font-size:100%;color:rgb(132, 141, 149);text-decoration:none;cursor:pointer;display:inline-block;">share</a>
+                    <span style="font-size:1px;color:rgb(27, 64, 114);">|</span>
+                    <a href="http://stackoverflow.com/posts/6208612/edit" style="margin:0px;padding:0px 3px 2px;border:0px;font-size:100%;color:rgb(132, 141, 149);text-decoration:none;cursor:pointer;display:inline-block;">improve this answer</a>
+                   </div> </td>
+                  <td style="font-size:100%;">
+                   <div style="font-size:100%;color:rgb(106, 115, 124);">
+                    <span style="font-size:100%;color:rgb(106, 115, 124);"></span>
+                    <div style="font-size:12px;">
+                     <a href="http://stackoverflow.com/posts/6208612/revisions" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(0, 119, 204);text-decoration:none;cursor:pointer;">edited <span style="font-size:100%;text-decoration:none;">Sep 24 &#39;14 at 20:52</span></a>
+                    </div>
+                    <div style="font-size:100%;">
+                     <a href="http://stackoverflow.com/users/737124/hozefa" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(0, 119, 204);text-decoration:none;cursor:pointer;">
+                      <div style="font-size:100%;">
+                       <img src="https://www.gravatar.com/avatar/81f4a9499a17df5c8445ee1d491e35a0?s=32&amp;d=identicon&amp;r=PG" alt="" width="32" height="32" style="margin:0px auto;padding:0px;border:0px;font-size:100%;width:32px;height:32px;border-radius:1px;">
+                      </div></a>
+                    </div>
+                    <div style="font-size:100%;">
+                     <a href="http://stackoverflow.com/users/737124/hozefa" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(0, 119, 204);text-decoration:none;cursor:pointer;">Hozefa</a>
+                     <div style="font-size:100%;">
+                      <span style="font-size:12px;">485</span>
+                      <span style="font-size:100%;"><span style="font-size:100%;"></span><span style="font-size:12px;color:rgb(106, 115, 124);">6</span></span>
+                      <span style="font-size:100%;"><span style="font-size:100%;"></span><span style="font-size:12px;color:rgb(106, 115, 124);">11</span></span>
+                      <span style="font-size:100%;"><span style="font-size:100%;"></span><span style="font-size:12px;color:rgb(106, 115, 124);">26</span></span>
+                     </div>
+                    </div>
+                    <span style="font-size:100%;color:rgb(106, 115, 124);"></span>
+                   </div> </td>
+                  <td style="font-size:100%;background-color:rgb(224, 234, 241);">
+                   <div style="font-size:100%;color:rgb(106, 115, 124);">
+                    <span style="font-size:100%;color:rgb(106, 115, 124);"></span>
+                    <div style="font-size:12px;">
+                      answered
+                     <span style="font-size:100%;text-decoration:none;">Jun 1 &#39;11 at 22:46</span>
+                    </div>
+                    <div style="font-size:100%;">
+                     <a href="http://stackoverflow.com/users/374953/haydenmuhl" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(0, 119, 204);text-decoration:none;cursor:pointer;">
+                      <div style="font-size:100%;">
+                       <img src="https://www.gravatar.com/avatar/ccd96642ef179a299a180d902dd16186?s=32&amp;d=identicon&amp;r=PG" alt="" width="32" height="32" style="margin:0px auto;padding:0px;border:0px;font-size:100%;width:32px;height:32px;border-radius:1px;">
+                      </div></a>
+                    </div>
+                    <div style="font-size:100%;">
+                     <a href="http://stackoverflow.com/users/374953/haydenmuhl" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(0, 119, 204);text-decoration:none;cursor:pointer;">haydenmuhl</a>
+                     <div style="font-size:100%;">
+                      <span style="font-size:12px;">2,771</span>
+                      <span style="font-size:100%;"><span style="font-size:100%;"></span><span style="font-size:12px;color:rgb(106, 115, 124);">3</span></span>
+                      <span style="font-size:100%;"><span style="font-size:100%;"></span><span style="font-size:12px;color:rgb(106, 115, 124);">18</span></span>
+                      <span style="font-size:100%;"><span style="font-size:100%;"></span><span style="font-size:12px;color:rgb(106, 115, 124);">30</span></span>
+                     </div>
+                    </div>
+                    <span style="font-size:100%;color:rgb(106, 115, 124);"></span>
+                   </div> </td>
+                 </tr>
+                </tbody>
+               </table> </td>
+             </tr>
+             <tr style="font-size:100%;">
+              <td style="font-size:100%;"></td>
+              <td style="font-size:100%;">
+               <div style="font-size:100%;-webkit-tap-highlight-color:rgba(255, 255, 255, 0);">
+                <table style="font-size:100%;">
+                 <tbody>
+                  <tr style="font-size:100%;">
+                   <td style="font-size:100%;">
+                    <table style="font-size:100%;">
+                     <tbody>
+                      <tr style="font-size:100%;">
+                       <td style="font-size:100%;">    </td>
+                       <td style="font-size:100%;">   </td>
+                      </tr>
+                     </tbody>
+                    </table> </td>
+                   <td style="font-size:13px;">
+                    <div style="font-size:100%;">
+                     <span style="font-size:100%;">Plume and Tweetcaster don&rsquo;t handle this format (they just show the profile for intent or share, depending on the URL). Tweetdeck doesn&rsquo;t seem to handle twitter.com URLs at all.</span> – 
+                     <a href="http://stackoverflow.com/users/304876/pierre-luc-paour" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(0, 119, 204);text-decoration:none;cursor:pointer;white-space:nowrap;">Pierre-Luc Paour</a>
+                     <span style="font-size:100%;color:rgb(145, 153, 161);"><a href="http://stackoverflow.com/questions/6208363/sharing-a-url-with-a-query-string-on-twitter#comment17105637_6208612" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(145, 153, 161);text-decoration:none;cursor:pointer;border-bottom:none;"><span style="font-size:100%;">Oct 1 &#39;12 at 14:47</span></a></span>
+                    </div> </td>
+                  </tr>
+                  <tr style="font-size:100%;">
+                   <td style="font-size:100%;">
+                    <table style="font-size:100%;">
+                     <tbody>
+                      <tr style="font-size:100%;">
+                       <td style="font-size:100%;"> <span style="font-size:13px;color:rgb(145, 153, 161);">1</span> </td>
+                       <td style="font-size:100%;">   </td>
+                      </tr>
+                     </tbody>
+                    </table> </td>
+                   <td style="font-size:13px;">
+                    <div style="font-size:100%;">
+                     <span style="font-size:100%;">URL parameters: <a href="https://dev.twitter.com/web/tweet-button/web-intent" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(0, 119, 204);text-decoration:none;cursor:pointer;">dev.twitter.com/web/tweet-button/web-intent</a></span> – 
+                     <a href="http://stackoverflow.com/users/922522/justin" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(0, 119, 204);text-decoration:none;cursor:pointer;white-space:nowrap;">Justin</a>
+                     <span style="font-size:100%;color:rgb(145, 153, 161);"><a href="http://stackoverflow.com/questions/6208363/sharing-a-url-with-a-query-string-on-twitter#comment52399316_6208612" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(145, 153, 161);text-decoration:none;cursor:pointer;border-bottom:none;"><span style="font-size:100%;">Aug 27 &#39;15 at 21:26</span></a></span>
+                     <span style="font-size:100%;"></span>
+                    </div> </td>
+                  </tr>
+                  <tr style="font-size:100%;">
+                   <td style="font-size:100%;">
+                    <table style="font-size:100%;">
+                     <tbody>
+                      <tr style="font-size:100%;">
+                       <td style="font-size:100%;">    </td>
+                       <td style="font-size:100%;">   </td>
+                      </tr>
+                     </tbody>
+                    </table> </td>
+                   <td style="font-size:13px;">
+                    <div style="font-size:100%;">
+                     <span style="font-size:100%;">Also see this link - <a href="http://blog.socialsourcecommons.org/2011/03/creating-share-this-on-facebooktwitter-links/" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(0, 119, 204);text-decoration:none;cursor:pointer;">blog.socialsourcecommons.org/2011/03/…</a></span> – 
+                     <a href="http://stackoverflow.com/users/860458/alpesh-trivedi" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(0, 119, 204);text-decoration:none;cursor:pointer;white-space:nowrap;">Alpesh Trivedi</a>
+                     <span style="font-size:100%;color:rgb(145, 153, 161);"><a href="http://stackoverflow.com/questions/6208363/sharing-a-url-with-a-query-string-on-twitter#comment58370941_6208612" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(145, 153, 161);text-decoration:none;cursor:pointer;border-bottom:none;"><span style="font-size:100%;">Feb 11 &#39;16 at 5:34</span></a></span>
+                    </div> </td>
+                  </tr>
+                 </tbody>
+                </table>
+               </div>
+               <div style="font-size:100%;">
+                <a style="font-size:100%;color:rgb(132, 141, 149);text-decoration:none;">add a comment</a>
+               </div> </td>
+             </tr>
+            </tbody>
+           </table>
+          </div>
+          <a style="font-size:100%;color:rgb(0, 119, 204);text-decoration:none;"></a>
+          <div style="font-size:100%;">
+           <table style="font-size:100%;">
+            <tbody>
+             <tr style="font-size:100%;">
+              <td style="font-size:100%;">
+               <div style="font-size:100%;">
+                <a style="font-size:1px;color:rgb(0, 119, 204);text-decoration:none;">up vote</a>
+                <span style="font-size:20px;color:rgb(106, 115, 124);">11</span>
+                <a style="font-size:1px;color:rgb(0, 119, 204);text-decoration:none;">down vote</a>
+               </div> </td>
+              <td style="font-size:100%;">
+               <div style="font-size:15px;">
+                <p style="font-size:100%;">Use tweet web intent, this is the simple link:</p>
+                <pre style="font-size:13px;background-color:rgb(239, 240, 241);"><code style="font-size:13px;background-color:rgb(239, 240, 241);"><a href="https://twitter.com/intent/tweet?url=&amp;lt;?=urlencode($url)">https://twitter.com/intent/tweet?url=&amp;lt;?=urlencode($url)</a>?&gt;
+</code></pre>
+                <p style="font-size:100%;">more variables at <a href="https://dev.twitter.com/web/tweet-button/web-intent" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(0, 119, 204);text-decoration:none;cursor:pointer;"><a href="https://dev.twitter.com/web/tweet-button/web-intent">https://dev.twitter.com/web/tweet-button/web-intent</a></a></p>
+               </div>
+               <table style="font-size:100%;">
+                <tbody>
+                 <tr style="font-size:100%;">
+                  <td style="font-size:100%;">
+                   <div style="font-size:100%;">
+                    <a href="http://stackoverflow.com/a/29252852" style="margin:0px;padding:0px 3px 2px;border:0px;font-size:100%;color:rgb(132, 141, 149);text-decoration:none;cursor:pointer;display:inline-block;">share</a>
+                    <span style="font-size:1px;color:rgb(27, 64, 114);">|</span>
+                    <a href="http://stackoverflow.com/posts/29252852/edit" style="margin:0px;padding:0px 3px 2px;border:0px;font-size:100%;color:rgb(132, 141, 149);text-decoration:none;cursor:pointer;display:inline-block;">improve this answer</a>
+                   </div> </td>
+                  <td style="font-size:100%;">
+                   <div style="font-size:100%;color:rgb(106, 115, 124);">
+                    <span style="font-size:100%;color:rgb(106, 115, 124);"></span>
+                    <div style="font-size:12px;">
+                     <a href="http://stackoverflow.com/posts/29252852/revisions" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(0, 119, 204);text-decoration:none;cursor:pointer;">edited <span style="font-size:100%;text-decoration:none;">May 22 &#39;15 at 16:05</span></a>
+                    </div>
+                    <div style="font-size:100%;">
+                    </div>
+                    <div style="font-size:100%;">
+                     <div style="font-size:100%;">
+                     </div>
+                    </div>
+                    <span style="font-size:100%;color:rgb(106, 115, 124);"></span>
+                   </div> </td>
+                  <td style="font-size:100%;">
+                   <div style="font-size:100%;color:rgb(106, 115, 124);">
+                    <span style="font-size:100%;color:rgb(106, 115, 124);"></span>
+                    <div style="font-size:12px;">
+                      answered
+                     <span style="font-size:100%;text-decoration:none;">Mar 25 &#39;15 at 10:15</span>
+                    </div>
+                    <div style="font-size:100%;">
+                     <a href="http://stackoverflow.com/users/4120229/kampageddon" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(0, 119, 204);text-decoration:none;cursor:pointer;">
+                      <div style="font-size:100%;">
+                       <img src="https://i.stack.imgur.com/Wn267.jpg?s=32&amp;g=1" alt="" width="32" height="32" style="margin:0px auto;padding:0px;border:0px;font-size:100%;width:32px;height:32px;border-radius:1px;">
+                      </div></a>
+                    </div>
+                    <div style="font-size:100%;">
+                     <a href="http://stackoverflow.com/users/4120229/kampageddon" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(0, 119, 204);text-decoration:none;cursor:pointer;">kampageddon</a>
+                     <div style="font-size:100%;">
+                      <span style="font-size:12px;">613</span>
+                      <span style="font-size:100%;"><span style="font-size:100%;"></span><span style="font-size:12px;color:rgb(106, 115, 124);">5</span></span>
+                      <span style="font-size:100%;"><span style="font-size:100%;"></span><span style="font-size:12px;color:rgb(106, 115, 124);">11</span></span>
+                     </div>
+                    </div>
+                    <span style="font-size:100%;color:rgb(106, 115, 124);"></span>
+                   </div> </td>
+                 </tr>
+                </tbody>
+               </table> </td>
+             </tr>
+             <tr style="font-size:100%;">
+              <td style="font-size:100%;"></td>
+              <td style="font-size:100%;">
+               <div style="font-size:100%;">
+                <a style="font-size:100%;color:rgb(132, 141, 149);text-decoration:none;">add a comment</a>
+               </div> </td>
+             </tr>
+            </tbody>
+           </table>
+          </div>
+          <a style="font-size:100%;color:rgb(0, 119, 204);text-decoration:none;"></a>
+          <div style="font-size:100%;">
+           <table style="font-size:100%;">
+            <tbody>
+             <tr style="font-size:100%;">
+              <td style="font-size:100%;">
+               <div style="font-size:100%;">
+                <a style="font-size:1px;color:rgb(0, 119, 204);text-decoration:none;">up vote</a>
+                <span style="font-size:20px;color:rgb(106, 115, 124);">2</span>
+                <a style="font-size:1px;color:rgb(0, 119, 204);text-decoration:none;">down vote</a>
+               </div> </td>
+              <td style="font-size:100%;">
+               <div style="font-size:15px;">
+                <p style="font-size:100%;">You don&rsquo;t necessarily need to use intent, it you encode your URL it will work with twitter share as well.</p>
+               </div>
+               <table style="font-size:100%;">
+                <tbody>
+                 <tr style="font-size:100%;">
+                  <td style="font-size:100%;">
+                   <div style="font-size:100%;">
+                    <a href="http://stackoverflow.com/a/12807611" style="margin:0px;padding:0px 3px 2px;border:0px;font-size:100%;color:rgb(132, 141, 149);text-decoration:none;cursor:pointer;display:inline-block;">share</a>
+                    <span style="font-size:1px;color:rgb(27, 64, 114);">|</span>
+                    <a href="http://stackoverflow.com/posts/12807611/edit" style="margin:0px;padding:0px 3px 2px;border:0px;font-size:100%;color:rgb(132, 141, 149);text-decoration:none;cursor:pointer;display:inline-block;">improve this answer</a>
+                   </div> </td>
+                  <td style="font-size:100%;">
+                   <div style="font-size:100%;color:rgb(106, 115, 124);">
+                    <span style="font-size:100%;color:rgb(106, 115, 124);"></span>
+                    <div style="font-size:12px;">
+                      answered
+                     <span style="font-size:100%;text-decoration:none;">Oct 9 &#39;12 at 20:04</span>
+                    </div>
+                    <div style="font-size:100%;">
+                     <a href="http://stackoverflow.com/users/1732898/dragos-rusu" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(0, 119, 204);text-decoration:none;cursor:pointer;">
+                      <div style="font-size:100%;">
+                       <img src="https://www.gravatar.com/avatar/b298e16cfe49191b0fb086f160d92a70?s=32&amp;d=identicon&amp;r=PG" alt="" width="32" height="32" style="margin:0px auto;padding:0px;border:0px;font-size:100%;width:32px;height:32px;border-radius:1px;">
+                      </div></a>
+                    </div>
+                    <div style="font-size:100%;">
+                     <a href="http://stackoverflow.com/users/1732898/dragos-rusu" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(0, 119, 204);text-decoration:none;cursor:pointer;">Dragos Rusu</a>
+                     <div style="font-size:100%;">
+                      <span style="font-size:12px;">21</span>
+                      <span style="font-size:100%;"><span style="font-size:100%;"></span><span style="font-size:12px;color:rgb(106, 115, 124);">1</span></span>
+                     </div>
+                    </div>
+                    <span style="font-size:100%;color:rgb(106, 115, 124);"></span>
+                   </div> </td>
+                 </tr>
+                </tbody>
+               </table> </td>
+             </tr>
+             <tr style="font-size:100%;">
+              <td style="font-size:100%;"></td>
+              <td style="font-size:100%;">
+               <div style="font-size:100%;">
+                <a style="font-size:100%;color:rgb(132, 141, 149);text-decoration:none;">add a comment</a>
+               </div> </td>
+             </tr>
+            </tbody>
+           </table>
+          </div>
+          <a style="font-size:100%;color:rgb(0, 119, 204);text-decoration:none;"></a>
+          <div style="font-size:100%;">
+           <table style="font-size:100%;">
+            <tbody>
+             <tr style="font-size:100%;">
+              <td style="font-size:100%;">
+               <div style="font-size:100%;">
+                <a style="font-size:1px;color:rgb(0, 119, 204);text-decoration:none;">up vote</a>
+                <span style="font-size:20px;color:rgb(106, 115, 124);">1</span>
+                <a style="font-size:1px;color:rgb(0, 119, 204);text-decoration:none;">down vote</a>
+               </div> </td>
+              <td style="font-size:100%;">
+               <div style="font-size:15px;">
+                <p style="font-size:100%;">As @onteria_ mentioned, you need to encode the entire parameter. For anyone else facing the same issue, you can use the following bookmarklet to generate the properly encoded url. Copy paste it into your browser&rsquo;s address bar to create the <strong style="font-size:100%;">twitter share url</strong>. Make sure that the <code style="font-size:13px;background-color:rgb(239, 240, 241);">javascript:</code> prefix is there when you copy it into address bar, Google Chrome removes it when copying.</p>
+                <pre style="font-size:13px;background-color:rgb(239, 240, 241);"><code style="font-size:13px;background-color:rgb(239, 240, 241);">javascript:(function(){var url=prompt(&quot;Enter the url to share&quot;);if(url)prompt(&quot;Share the following url - &quot;,&quot;<a href="http://www.twitter.com/share?url=%22+encodeURIComponent(url))%7D)(">http://www.twitter.com/share?url=&quot;+encodeURIComponent(url))})(</a>);
+</code></pre>
+                <p style="font-size:100%;">Source on JS Fiddle <a href="http://jsfiddle.net/2frkV/" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(0, 119, 204);text-decoration:none;cursor:pointer;"><a href="http://jsfiddle.net/2frkV/">http://jsfiddle.net/2frkV/</a></a></p>
+               </div>
+               <table style="font-size:100%;">
+                <tbody>
+                 <tr style="font-size:100%;">
+                  <td style="font-size:100%;">
+                   <div style="font-size:100%;">
+                    <a href="http://stackoverflow.com/a/23592733" style="margin:0px;padding:0px 3px 2px;border:0px;font-size:100%;color:rgb(132, 141, 149);text-decoration:none;cursor:pointer;display:inline-block;">share</a>
+                    <span style="font-size:1px;color:rgb(27, 64, 114);">|</span>
+                    <a href="http://stackoverflow.com/posts/23592733/edit" style="margin:0px;padding:0px 3px 2px;border:0px;font-size:100%;color:rgb(132, 141, 149);text-decoration:none;cursor:pointer;display:inline-block;">improve this answer</a>
+                   </div> </td>
+                  <td style="font-size:100%;">
+                   <div style="font-size:100%;color:rgb(106, 115, 124);">
+                    <span style="font-size:100%;color:rgb(106, 115, 124);"></span>
+                    <div style="font-size:12px;">
+                     <a href="http://stackoverflow.com/posts/23592733/revisions" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(0, 119, 204);text-decoration:none;cursor:pointer;">edited <span style="font-size:100%;text-decoration:none;">May 11 &#39;14 at 12:46</span></a>
+                    </div>
+                    <div style="font-size:100%;">
+                    </div>
+                    <div style="font-size:100%;">
+                     <div style="font-size:100%;">
+                     </div>
+                    </div>
+                    <span style="font-size:100%;color:rgb(106, 115, 124);"></span>
+                   </div> </td>
+                  <td style="font-size:100%;">
+                   <div style="font-size:100%;color:rgb(106, 115, 124);">
+                    <span style="font-size:100%;color:rgb(106, 115, 124);"></span>
+                    <div style="font-size:12px;">
+                      answered
+                     <span style="font-size:100%;text-decoration:none;">May 11 &#39;14 at 12:40</span>
+                    </div>
+                    <div style="font-size:100%;">
+                     <a href="http://stackoverflow.com/users/465590/joyce-babu" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(0, 119, 204);text-decoration:none;cursor:pointer;">
+                      <div style="font-size:100%;">
+                       <img src="https://www.gravatar.com/avatar/637c4bbe3ae3ef4e53899bd41a43b614?s=32&amp;d=identicon&amp;r=PG" alt="" width="32" height="32" style="margin:0px auto;padding:0px;border:0px;font-size:100%;width:32px;height:32px;border-radius:1px;">
+                      </div></a>
+                    </div>
+                    <div style="font-size:100%;">
+                     <a href="http://stackoverflow.com/users/465590/joyce-babu" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(0, 119, 204);text-decoration:none;cursor:pointer;">Joyce Babu</a>
+                     <div style="font-size:100%;">
+                      <span style="font-size:12px;">5,762</span>
+                      <span style="font-size:100%;"><span style="font-size:100%;"></span><span style="font-size:12px;color:rgb(106, 115, 124);">5</span></span>
+                      <span style="font-size:100%;"><span style="font-size:100%;"></span><span style="font-size:12px;color:rgb(106, 115, 124);">35</span></span>
+                      <span style="font-size:100%;"><span style="font-size:100%;"></span><span style="font-size:12px;color:rgb(106, 115, 124);">66</span></span>
+                     </div>
+                    </div>
+                    <span style="font-size:100%;color:rgb(106, 115, 124);"></span>
+                   </div> </td>
+                 </tr>
+                </tbody>
+               </table> </td>
+             </tr>
+             <tr style="font-size:100%;">
+              <td style="font-size:100%;"></td>
+              <td style="font-size:100%;">
+               <div style="font-size:100%;">
+                <a style="font-size:100%;color:rgb(132, 141, 149);text-decoration:none;">add a comment</a>
+               </div> </td>
+             </tr>
+            </tbody>
+           </table>
+          </div>
+          <a style="font-size:100%;color:rgb(0, 119, 204);text-decoration:none;"></a>
+          <div style="font-size:100%;">
+           <table style="font-size:100%;">
+            <tbody>
+             <tr style="font-size:100%;">
+              <td style="font-size:100%;">
+               <div style="font-size:100%;">
+                <a style="font-size:1px;color:rgb(0, 119, 204);text-decoration:none;">up vote</a>
+                <span style="font-size:20px;color:rgb(106, 115, 124);">0</span>
+                <a style="font-size:1px;color:rgb(0, 119, 204);text-decoration:none;">down vote</a>
+               </div> </td>
+              <td style="font-size:100%;">
+               <div style="font-size:15px;">
+                <p style="font-size:100%;">Twitter now lets you send the URL through a data attribute. This works great for me: </p>
+                <pre style="font-size:13px;background-color:rgb(239, 240, 241);"><code style="font-size:13px;background-color:rgb(239, 240, 241);">&lt;a href=&quot;javascript:;&quot; class=&quot;twitter-share-button&quot; data-lang=&quot;en&quot; data-text=&quot;check out link b&quot; data-url=&quot;<a href="http://www.lyricvideos.org/tracks?videoURL=SX05JZ4FisE%22&amp;gt;Tweet&amp;lt;/a">http://www.lyricvideos.org/tracks?videoURL=SX05JZ4FisE&quot;&amp;gt;Tweet&amp;lt;/a</a>&gt;
+</code></pre>
+               </div>
+               <table style="font-size:100%;">
+                <tbody>
+                 <tr style="font-size:100%;">
+                  <td style="font-size:100%;">
+                   <div style="font-size:100%;">
+                    <a href="http://stackoverflow.com/a/24645679" style="margin:0px;padding:0px 3px 2px;border:0px;font-size:100%;color:rgb(132, 141, 149);text-decoration:none;cursor:pointer;display:inline-block;">share</a>
+                    <span style="font-size:1px;color:rgb(27, 64, 114);">|</span>
+                    <a href="http://stackoverflow.com/posts/24645679/edit" style="margin:0px;padding:0px 3px 2px;border:0px;font-size:100%;color:rgb(132, 141, 149);text-decoration:none;cursor:pointer;display:inline-block;">improve this answer</a>
+                   </div> </td>
+                  <td style="font-size:100%;">
+                   <div style="font-size:100%;color:rgb(106, 115, 124);">
+                    <span style="font-size:100%;color:rgb(106, 115, 124);"></span>
+                    <div style="font-size:12px;">
+                      answered
+                     <span style="font-size:100%;text-decoration:none;">Jul 9 &#39;14 at 4:57</span>
+                    </div>
+                    <div style="font-size:100%;">
+                     <a href="http://stackoverflow.com/users/3798322/user3798322" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(0, 119, 204);text-decoration:none;cursor:pointer;">
+                      <div style="font-size:100%;">
+                       <img src="https://www.gravatar.com/avatar/9f3b1c66a3db791327045ca7e76ffa84?s=32&amp;d=identicon&amp;r=PG&amp;f=1" alt="" width="32" height="32" style="margin:0px auto;padding:0px;border:0px;font-size:100%;width:32px;height:32px;border-radius:1px;">
+                      </div></a>
+                    </div>
+                    <div style="font-size:100%;">
+                     <a href="http://stackoverflow.com/users/3798322/user3798322" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(0, 119, 204);text-decoration:none;cursor:pointer;">user3798322</a>
+                     <div style="font-size:100%;">
+                      <span style="font-size:12px;">11</span>
+                      <span style="font-size:100%;"><span style="font-size:100%;"></span><span style="font-size:12px;color:rgb(106, 115, 124);">2</span></span>
+                     </div>
+                    </div>
+                    <span style="font-size:100%;color:rgb(106, 115, 124);"></span>
+                   </div> </td>
+                 </tr>
+                </tbody>
+               </table> </td>
+             </tr>
+             <tr style="font-size:100%;">
+              <td style="font-size:100%;"></td>
+              <td style="font-size:100%;">
+               <div style="font-size:100%;-webkit-tap-highlight-color:rgba(255, 255, 255, 0);">
+                <table style="font-size:100%;">
+                 <tbody>
+                  <tr style="font-size:100%;">
+                   <td style="font-size:100%;">
+                    <table style="font-size:100%;">
+                     <tbody>
+                      <tr style="font-size:100%;">
+                       <td style="font-size:100%;">    </td>
+                       <td style="font-size:100%;">   </td>
+                      </tr>
+                     </tbody>
+                    </table> </td>
+                   <td style="font-size:13px;">
+                    <div style="font-size:100%;">
+                     <span style="font-size:100%;">Has anyone tested to see if this relies on javascript from the twitter API to pull the url from the attribute and then redirect the browser to the right URL?</span> – 
+                     <a href="http://stackoverflow.com/users/1880657/mark" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(0, 119, 204);text-decoration:none;cursor:pointer;white-space:nowrap;">Mark</a>
+                     <span style="font-size:100%;color:rgb(145, 153, 161);"><a href="http://stackoverflow.com/questions/6208363/sharing-a-url-with-a-query-string-on-twitter#comment40056110_24645679" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(145, 153, 161);text-decoration:none;cursor:pointer;border-bottom:none;"><span style="font-size:100%;">Sep 3 &#39;14 at 5:43</span></a></span>
+                    </div> </td>
+                  </tr>
+                 </tbody>
+                </table>
+               </div>
+               <div style="font-size:100%;">
+                <a style="font-size:100%;color:rgb(132, 141, 149);text-decoration:none;">add a comment</a>
+               </div> </td>
+             </tr>
+            </tbody>
+           </table>
+          </div>
+          <a style="font-size:100%;color:rgb(0, 119, 204);text-decoration:none;"></a>
+          <div style="font-size:100%;">
+           <table style="font-size:100%;">
+            <tbody>
+             <tr style="font-size:100%;">
+              <td style="font-size:100%;">
+               <div style="font-size:100%;">
+                <a style="font-size:1px;color:rgb(0, 119, 204);text-decoration:none;">up vote</a>
+                <span style="font-size:20px;color:rgb(106, 115, 124);">0</span>
+                <a style="font-size:1px;color:rgb(0, 119, 204);text-decoration:none;">down vote</a>
+               </div> </td>
+              <td style="font-size:100%;">
+               <div style="font-size:15px;">
+                <p style="font-size:100%;">You must to change &amp; to %26 in query string from your url</p>
+                <p style="font-size:100%;">Look at this: <a href="https://dev.twitter.com/discussions/8616" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(0, 119, 204);text-decoration:none;cursor:pointer;"><a href="https://dev.twitter.com/discussions/8616">https://dev.twitter.com/discussions/8616</a></a></p>
+               </div>
+               <table style="font-size:100%;">
+                <tbody>
+                 <tr style="font-size:100%;">
+                  <td style="font-size:100%;">
+                   <div style="font-size:100%;">
+                    <a href="http://stackoverflow.com/a/25673184" style="margin:0px;padding:0px 3px 2px;border:0px;font-size:100%;color:rgb(132, 141, 149);text-decoration:none;cursor:pointer;display:inline-block;">share</a>
+                    <span style="font-size:1px;color:rgb(27, 64, 114);">|</span>
+                    <a href="http://stackoverflow.com/posts/25673184/edit" style="margin:0px;padding:0px 3px 2px;border:0px;font-size:100%;color:rgb(132, 141, 149);text-decoration:none;cursor:pointer;display:inline-block;">improve this answer</a>
+                   </div> </td>
+                  <td style="font-size:100%;">
+                   <div style="font-size:100%;color:rgb(106, 115, 124);">
+                    <span style="font-size:100%;color:rgb(106, 115, 124);"></span>
+                    <div style="font-size:12px;">
+                      answered
+                     <span style="font-size:100%;text-decoration:none;">Sep 4 &#39;14 at 19:02</span>
+                    </div>
+                    <div style="font-size:100%;">
+                     <a href="http://stackoverflow.com/users/2799974/thiago-valentim" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(0, 119, 204);text-decoration:none;cursor:pointer;">
+                      <div style="font-size:100%;">
+                       <img src="https://www.gravatar.com/avatar/659e1d81c3c6f8e305fc81b177ddc7b5?s=32&amp;d=identicon&amp;r=PG&amp;f=1" alt="" width="32" height="32" style="margin:0px auto;padding:0px;border:0px;font-size:100%;width:32px;height:32px;border-radius:1px;">
+                      </div></a>
+                    </div>
+                    <div style="font-size:100%;">
+                     <a href="http://stackoverflow.com/users/2799974/thiago-valentim" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(0, 119, 204);text-decoration:none;cursor:pointer;">Thiago Valentim</a>
+                     <div style="font-size:100%;">
+                      <span style="font-size:12px;">50</span>
+                      <span style="font-size:100%;"><span style="font-size:100%;"></span><span style="font-size:12px;color:rgb(106, 115, 124);">5</span></span>
+                     </div>
+                    </div>
+                    <span style="font-size:100%;color:rgb(106, 115, 124);"></span>
+                   </div> </td>
+                 </tr>
+                </tbody>
+               </table> </td>
+             </tr>
+             <tr style="font-size:100%;">
+              <td style="font-size:100%;"></td>
+              <td style="font-size:100%;">
+               <div style="font-size:100%;">
+                <a style="font-size:100%;color:rgb(132, 141, 149);text-decoration:none;">add a comment</a>
+               </div> </td>
+             </tr>
+            </tbody>
+           </table>
+          </div>
+          <a style="font-size:100%;color:rgb(0, 119, 204);text-decoration:none;"></a>
+          <div style="font-size:100%;">
+           <table style="font-size:100%;">
+            <tbody>
+             <tr style="font-size:100%;">
+              <td style="font-size:100%;">
+               <div style="font-size:100%;">
+                <a style="font-size:1px;color:rgb(0, 119, 204);text-decoration:none;">up vote</a>
+                <span style="font-size:20px;color:rgb(106, 115, 124);">0</span>
+                <a style="font-size:1px;color:rgb(0, 119, 204);text-decoration:none;">down vote</a>
+               </div> </td>
+              <td style="font-size:100%;">
+               <div style="font-size:15px;">
+                <p style="font-size:100%;">Use the Twitter Intent resource <a href="https://dev.twitter.com/web/tweet-button/web-intent" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(0, 119, 204);text-decoration:none;cursor:pointer;"><a href="https://dev.twitter.com/web/tweet-button/web-intent">https://dev.twitter.com/web/tweet-button/web-intent</a></a></p>
+               </div>
+               <table style="font-size:100%;">
+                <tbody>
+                 <tr style="font-size:100%;">
+                  <td style="font-size:100%;">
+                   <div style="font-size:100%;">
+                    <a href="http://stackoverflow.com/a/27908224" style="margin:0px;padding:0px 3px 2px;border:0px;font-size:100%;color:rgb(132, 141, 149);text-decoration:none;cursor:pointer;display:inline-block;">share</a>
+                    <span style="font-size:1px;color:rgb(27, 64, 114);">|</span>
+                    <a href="http://stackoverflow.com/posts/27908224/edit" style="margin:0px;padding:0px 3px 2px;border:0px;font-size:100%;color:rgb(132, 141, 149);text-decoration:none;cursor:pointer;display:inline-block;">improve this answer</a>
+                   </div> </td>
+                  <td style="font-size:100%;">
+                   <div style="font-size:100%;color:rgb(106, 115, 124);">
+                    <span style="font-size:100%;color:rgb(106, 115, 124);"></span>
+                    <div style="font-size:12px;">
+                      answered
+                     <span style="font-size:100%;text-decoration:none;">Jan 12 &#39;15 at 18:12</span>
+                    </div>
+                    <div style="font-size:100%;">
+                     <a href="http://stackoverflow.com/users/4446474/wil-gichu" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(0, 119, 204);text-decoration:none;cursor:pointer;">
+                      <div style="font-size:100%;">
+                       <img src="https://graph.facebook.com/100002917912254/picture?type=large" alt="" width="32" height="32" style="margin:0px auto;padding:0px;border:0px;font-size:100%;width:32px;height:32px;border-radius:1px;">
+                      </div></a>
+                    </div>
+                    <div style="font-size:100%;">
+                     <a href="http://stackoverflow.com/users/4446474/wil-gichu" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(0, 119, 204);text-decoration:none;cursor:pointer;">Wil Gichu</a>
+                     <div style="font-size:100%;">
+                      <span style="font-size:12px;">1</span>
+                     </div>
+                    </div>
+                    <span style="font-size:100%;color:rgb(106, 115, 124);"></span>
+                   </div> </td>
+                 </tr>
+                </tbody>
+               </table> </td>
+             </tr>
+             <tr style="font-size:100%;">
+              <td style="font-size:100%;"></td>
+              <td style="font-size:100%;">
+               <div style="font-size:100%;-webkit-tap-highlight-color:rgba(255, 255, 255, 0);">
+                <table style="font-size:100%;">
+                 <tbody>
+                  <tr style="font-size:100%;">
+                   <td style="font-size:100%;">
+                    <table style="font-size:100%;">
+                     <tbody>
+                      <tr style="font-size:100%;">
+                       <td style="font-size:100%;">    </td>
+                       <td style="font-size:100%;">   </td>
+                      </tr>
+                     </tbody>
+                    </table> </td>
+                   <td style="font-size:13px;">
+                    <div style="font-size:100%;">
+                     <span style="font-size:100%;">including a key snippet to answering the question would help</span> – 
+                     <a href="http://stackoverflow.com/users/1873438/paul-bastide" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(0, 119, 204);text-decoration:none;cursor:pointer;white-space:nowrap;">Paul Bastide</a>
+                     <span style="font-size:100%;color:rgb(145, 153, 161);"><a href="http://stackoverflow.com/questions/6208363/sharing-a-url-with-a-query-string-on-twitter#comment44215718_27908224" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(145, 153, 161);text-decoration:none;cursor:pointer;border-bottom:none;"><span style="font-size:100%;">Jan 12 &#39;15 at 18:14</span></a></span>
+                    </div> </td>
+                  </tr>
+                 </tbody>
+                </table>
+               </div>
+               <div style="font-size:100%;">
+                <a style="font-size:100%;color:rgb(132, 141, 149);text-decoration:none;">add a comment</a>
+               </div> </td>
+             </tr>
+            </tbody>
+           </table>
+          </div>
+          <a style="font-size:100%;color:rgb(0, 119, 204);text-decoration:none;"></a>
+          <div style="font-size:100%;">
+            Your Answer
+           <div style="font-size:100%;">
+            <div style="font-size:100%;">
+             <div style="font-size:100%;">
+              <div style="font-size:100%;background-color:transparent;border-top-color:rgb(200, 204, 208);border-right-color:rgb(200, 204, 208);border-left-color:rgb(200, 204, 208);border-bottom-color:initial;">
+               <ul style="font-size:100%;">
+                <li style="font-size:100%;"><span style="font-size:100%;"></span></li>
+                <li style="font-size:100%;"><span style="font-size:100%;"></span></li>
+                <li style="font-size:100%;"><span style="font-size:100%;"></span></li>
+                <li style="font-size:100%;"><span style="font-size:100%;"></span></li>
+                <li style="font-size:100%;"><span style="font-size:100%;"></span></li>
+                <li style="font-size:100%;"><span style="font-size:100%;"></span></li>
+                <li style="font-size:100%;"><span style="font-size:100%;"></span></li>
+                <li style="font-size:100%;"><span style="font-size:100%;"></span></li>
+                <li style="font-size:100%;"><span style="font-size:100%;"></span></li>
+                <li style="font-size:100%;"><span style="font-size:100%;"></span></li>
+                <li style="font-size:100%;"><span style="font-size:100%;"></span></li>
+                <li style="font-size:100%;"><span style="font-size:100%;"></span></li>
+                <li style="font-size:100%;"><span style="font-size:100%;"></span></li>
+                <li style="font-size:100%;"><span style="font-size:100%;"></span></li>
+                <li style="font-size:100%;"><span style="font-size:100%;"></span></li>
+               </ul>
+              </div>
+             </div>
+            </div>
+            <div style="font-size:100%;"></p>
+<pre class="highlight plaintext"><code>        &lt;/div&gt;
+        &lt;div style="font-size:15px;"&gt;&lt;/div&gt;
+        &lt;div style="font-size:100%;"&gt;&lt;/div&gt;
+       &lt;/div&gt;
+       &lt;div style="font-size:100%;"&gt;
+        &lt;div style="font-size:100%;"&gt;
+         &lt;div style="font-size:100%;"&gt;
+          &lt;div style="font-size:100%;"&gt;
+            Sign up or
+           &lt;a href="http://stackoverflow.com/users/login?ssrc=question_page&amp;amp;returnurl=http%3a%2f%2fstackoverflow.com%2fquestions%2f6208363%2fsharing-a-url-with-a-query-string-on-twitter%23new-answer" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(0, 119, 204);text-decoration:none;cursor:pointer;"&gt;log in&lt;/a&gt;
+           &lt;div style="font-size:100%;color:rgb(132, 141, 149);"&gt;
+            &lt;p style="font-size:100%;"&gt;&lt;span style="font-size:100%;"&gt;&lt;/span&gt;&lt;span style="font-size:100%;"&gt;Sign up using Google&lt;/span&gt;&lt;/p&gt;
+           &lt;/div&gt;
+           &lt;div style="font-size:100%;color:rgb(132, 141, 149);"&gt;
+            &lt;p style="font-size:100%;"&gt;&lt;span style="font-size:100%;"&gt;&lt;/span&gt;&lt;span style="font-size:100%;"&gt;Sign up using Facebook&lt;/span&gt;&lt;/p&gt;
+           &lt;/div&gt;
+           &lt;div style="font-size:100%;color:rgb(132, 141, 149);"&gt;
+            &lt;p style="font-size:100%;"&gt;&lt;span style="font-size:100%;"&gt;&lt;/span&gt;&lt;span style="font-size:100%;"&gt;Sign up using Email and Password&lt;/span&gt;&lt;/p&gt;
+           &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div style="font-size:100%;"&gt;
+            Post as a guest
+           &lt;div style="font-size:100%;color:rgb(132, 141, 149);"&gt;
+            &lt;table style="font-size:100%;"&gt;
+             &lt;tbody&gt;
+              &lt;tr style="font-size:100%;"&gt;
+               &lt;td style="font-size:100%;"&gt;
+                &lt;div style="font-size:100%;"&gt;
+                 &lt;span style="font-size:100%;color:inherit;"&gt;Name&lt;/span&gt;
+                &lt;/div&gt;
+                &lt;div style="font-size:100%;"&gt;
+                 &lt;span style="font-size:100%;color:inherit;"&gt;Email&lt;/span&gt;
+                &lt;/div&gt; &lt;/td&gt;
+              &lt;/tr&gt;
+             &lt;/tbody&gt;
+            &lt;/table&gt;
+           &lt;/div&gt;
+          &lt;/div&gt;
+         &lt;/div&gt;
+        &lt;/div&gt;
+       &lt;/div&gt;
+       &lt;div style="font-size:100%;"&gt;
+        &lt;p style="font-size:100%;"&gt; By posting your answer, you agree to the &lt;a href="http://stackexchange.com/legal/privacy-policy" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(0, 119, 204);text-decoration:none;cursor:pointer;"&gt;privacy policy&lt;/a&gt; and &lt;a href="http://stackexchange.com/legal/terms-of-service" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(0, 119, 204);text-decoration:none;cursor:pointer;"&gt;terms of service&lt;/a&gt;.&lt;/p&gt;
+       &lt;/div&gt;
+      &lt;/div&gt; Not the answer you're looking for? Browse other questions tagged
+      &lt;a href="http://stackoverflow.com/questions/tagged/twitter" style="margin:2px 2px 2px 0px;padding:0.4em 0.5em;border:0px;font-size:12px;color:rgb(57, 115, 157);text-decoration:none;cursor:pointer;position:relative;display:inline-block;line-height:1;white-space:nowrap;text-align:center;border-width:1px;border-style:solid;border-radius:0px;transition:all 0.15s ease-in-out;background-color:rgb(225, 236, 244);border-color:transparent;"&gt;twitter&lt;/a&gt;
+      &lt;a href="http://stackoverflow.com/questions/tagged/query-string" style="margin:2px 2px 2px 0px;padding:0.4em 0.5em;border:0px;font-size:12px;color:rgb(57, 115, 157);text-decoration:none;cursor:pointer;position:relative;display:inline-block;line-height:1;white-space:nowrap;text-align:center;border-width:1px;border-style:solid;border-radius:0px;transition:all 0.15s ease-in-out;background-color:rgb(225, 236, 244);border-color:transparent;"&gt;query-string&lt;/a&gt;
+      &lt;a href="http://stackoverflow.com/questions/tagged/share" style="margin:2px 2px 2px 0px;padding:0.4em 0.5em;border:0px;font-size:12px;color:rgb(57, 115, 157);text-decoration:none;cursor:pointer;position:relative;display:inline-block;line-height:1;white-space:nowrap;text-align:center;border-width:1px;border-style:solid;border-radius:0px;transition:all 0.15s ease-in-out;background-color:rgb(225, 236, 244);border-color:transparent;"&gt;share&lt;/a&gt;
+      &lt;a href="http://stackoverflow.com/questions/tagged/url-encoding" style="margin:2px 2px 2px 0px;padding:0.4em 0.5em;border:0px;font-size:12px;color:rgb(57, 115, 157);text-decoration:none;cursor:pointer;position:relative;display:inline-block;line-height:1;white-space:nowrap;text-align:center;border-width:1px;border-style:solid;border-radius:0px;transition:all 0.15s ease-in-out;background-color:rgb(225, 236, 244);border-color:transparent;"&gt;url-encoding&lt;/a&gt; or
+      &lt;a href="http://stackoverflow.com/questions/ask" style="margin:0px;padding:0px;border:0px;font-size:100%;color:rgb(0, 119, 204);text-decoration:none;cursor:pointer;"&gt;ask your own question&lt;/a&gt;.
+     &lt;/div&gt;
+    &lt;/div&gt;
+   &lt;/div&gt;
+  &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+</code></pre>
+
+<p></div>
+  </div></p>
+
+<p><a href="http://stackoverflow.com/questions/6208363/sharing-a-url-with-a-query-string-on-twitter">Link</a></p>
+
+  </div>
+</div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+<div class="col-sm-3 col-sm-offset-1 blog-sidebar">
+  <div class="sidebar-module">
+    <div class="panel panel-default">
+      <div class="panel-body">
+        <h4>
+          Categories
+        </h4>
+        <ol class="categories list-unstyled">
+          <li>
+            <a class="label label-light label-primary" href="/tags/chat.html">chat</a><span class="label label-light label-default pull-right"> (1)</span>
+          </li>
+          <li>
+            <a class="label label-light label-primary" href="/tags/concepts.html">concepts</a><span class="label label-light label-default pull-right"> (3)</span>
+          </li>
+          <li>
+            <a class="label label-light label-primary" href="/tags/conversational.html">conversational</a><span class="label label-light label-default pull-right"> (3)</span>
+          </li>
+          <li>
+            <a class="label label-light label-primary" href="/tags/reflection.html">reflection</a><span class="label label-light label-default pull-right"> (1)</span>
+          </li>
+        </ol>
+        <h4>
+          By year
+        </h4>
+        <ol class="categories list-unstyled">
+          <li>
+            <a class="label label-light label-primary" href="/2017.html">2017</a><span class="label label-light label-default pull-right"> (10)</span>
+          </li>
+        </ol>
+      </div>
+    </div>
+  </div>
+</div>
+      </div>
+    </div>
+    <footer class="blog-footer">
+      <div id="links">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-2">
+              Bots Rising
+            </div>
+            <div class="col-sm-8 text-center offset">
+              <ul class="list-inline">
+              </ul>
+            </div>
+            <div class="col-md-2 text-right offset">
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <button class="material-scrolltop danger" type="button"></button><script src="../../../js/all.js" type="text/javascript"></script>
+    <script type="text/javascript">
+      $.material.init();
+      $('body').materialScrollTop();
+    </script>
+  </body>
+</html>

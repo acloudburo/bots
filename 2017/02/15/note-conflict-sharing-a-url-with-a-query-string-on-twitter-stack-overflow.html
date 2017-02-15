@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta content="IE=edge" http-equiv="X-UA-Compatible" />
-    <title>Bots Rising | Are chatbots an evolution or a revolution?</title>
+    <title>Bots Rising | Note conflict Sharing a URL with a query string on Twitter - Stack Overflow</title>
     <meta content="width=device-width, initial-scale=1" name="viewport" />
     <link rel="alternate" type="application/atom+xml" title="Atom Feed" href="/feed.xml" /><!--[if lt IE 9]><script src="../../../js/ie8.js" type="text/javascript"></script><![endif]--><link href="../../../css/all.css" media="screen" rel="stylesheet" type="text/css" /><script type="text/javascript">
       (function(d,e,j,h,f,c,b){d.GoogleAnalyticsObject=f;d[f]=d[f]||function(){(d[f].q=d[f].q||[]).push(arguments)},d[f].l=1*new Date();c=e.createElement(j),b=e.getElementsByTagName(j)[0];c.async=1;c.src=h;b.parentNode.insertBefore(c,b)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create","UA-89386900-3", location.hostname);ga("send","pageview");
@@ -67,45 +67,21 @@
             <div class="panel panel-default">
               <div class="panel-body">
                 <h2 class="blog-post-title blog-post-title-article">
-                  Are chatbots an evolution or a revolution?
+                  Note conflict Sharing a URL with a query string on Twitter - Stack Overflow
                 </h2>
                 <div class="blog-post-meta">
-                  <span class="label label-light label-info"><a href="/tags/chat.html">chat</a></span>
-                  <span class="label label-light label-info"><a href="/tags/conversational.html">conversational</a></span>
                   <p class="blog-post-date pull-right">
-                    Feb 13
+                    Feb 15
                   </p>
                 </div>
                 <div class="blog-post-content">
                   <div class="row">
                     <div class="article">
-                      <p><span/>      The article exploits the hype around chatbots and will outline why there aren’t really evidences that it is a revolution but rather an evolution.<br/>
-                      <br/>
-                      First the article will describe the lessons learnt from China and India. <br/>
-                      <br/>
-                      &ldquo;To predict how chatbots will evolve, we can look to Asia, a region that has led the West in this space. We’ll use WeChat in China and SMS-based messaging in India as examples …<br/>
-                      <br/>
-                      … WeChat’s success, though I would argue most of it is not relevant. For example, much of its functionality is through a browser interface rather than a chat interface — hardly a model for the promise of automated chatbots  …<br/>
-                      <br/>
-                      … Monetization is focused on payments rather than advertising. Messaging apps occupy a highly personal space, and advertising is ill-suited in this space without risking user backlash. Integrated payments, however, are an important additive part of the user workflow …<br/>
-                      <br/>
-                      … Application-to-person (A2P) SMS messaging in India may be a more relevant precedent for today’s chatbots. In India, A2P messages are a ubiquitous aspect of daily life … <br/>
-                      <br/>
-                      … This market has evolved in recent years from notification-oriented messages (‘you completed an ATM withdrawal’), to marketing-oriented messages (SMS, not email, is the dominant digital channel), to customer service-oriented messages (‘your order will be delivered today’), and now interaction-oriented messaging (‘tell me my last 3 transactions’).”<br/>
-                      <br/>
-                      As the writer points out the most successful use cases were lightweight — useful information with little cognitive load given the 160-character limit for SMS.<br/>
-                      <br/>
-                      He goes on by reflecting on these experiences, there are a few takeaways that argue for a more evolutionary approach for chatbots in the West:<br/>
-                      <br/>
-                      * Early use cases are likely to be quite simple.<br/>
-                      * Rich interaction experiences (e.g., buttons, menus) are required to drive complex use cases.<br/>
-                      * Cross-platform support is critical for widespread adoption, and there are already more than a dozen relevant platforms, including Messenger, WhatsApp, Alexa, iMessage, Skype, Slack, SMS, and email.<br/>
-                      * Platforms must tread carefully on user acquisition, ensuring it is not too onerous as to hamper growth while ensuring users are not inundated with undesired messages.<br/>
-                      * Platforms must self-regulate to resist the pull to make chatbots another marketing channel.<br/>
-                      * Payment integration will be a key enabler for consumer monetization.<br/>
-                      <br/>
-                      Read the full article including the Opportunities section here.<br/>
-                      <a href="http://venturebeat.com/2016/09/01/are-chatbots-an-evolution-or-a-revolution/">Link</a></p>
+                      <p><span/></p>
+                      
+                      <p>up vote59down votefavorite 18 I&rsquo;m trying to put a Twitter share link in an email. Because this is in an email I can&rsquo;t rely on JavaScript, and have to use the &ldquo;Build Your Own&rdquo; Tweet button. For example, sharing a link to Google: &lt;a href=&ldquo;<a href="http://www.twitter.com/share?url=http://www.google.com/&amp;gt;Tweet&amp;lt;/a">http://www.twitter.com/share?url=http://www.google.com/&amp;gt;Tweet&amp;lt;/a</a>&gt; This works fine. The problem I&rsquo;m having is when the URL has a query string. &lt;a href=&rdquo;<a href="http://www.twitter.com/share?url=http://mysite.org/foo.htm?bar=123&amp;amp;baz=456%22&amp;gt;Tweet&amp;lt;/a">http://www.twitter.com/share?url=http://mysite.org/foo.htm?bar=123&amp;amp;baz=456&quot;&amp;gt;Tweet&amp;lt;/a</a>&gt; URLs with query strings confuse Twitter&rsquo;s URL shortening service, t.co. I&rsquo;ve tried URL encoding this in various ways and cannot get anything to work. The closest I have gotten is by doing this. &lt;a href=&ldquo;<a href="http://www.twitter.com/share?url=http://mysite.org/foo.htm%3Fbar%3D123%26baz%3D456%22&amp;gt;Tweet&amp;lt;/a">http://www.twitter.com/share?url=http://mysite.org/foo.htm%3Fbar%3D123%26baz%3D456&rdquo;&amp;gt;Tweet&amp;lt;/a</a>&gt; Here I&rsquo;ve encoded only the query string. When I do this, t.co successfully shortens the URL, but upon following the shortened link, it takes you to the encoded URL. I see <a href="http://mysite.org/foo.htm%3Fbar%3D123%26baz%3D456">http://mysite.org/foo.htm%3Fbar%3D123%26baz%3D456</a> in the address bar, and get the following error in the browser Not Found The requested URL /foo.htm?bar=123&amp;baz=456 was not found on this server. I&rsquo;m at a loss as to how to solve this problem. Edit: Re: onteria_ I&rsquo;ve tried encoding the entire URL. When I do that no URL shows up in the Tweet.</p>
+                      
+                      <p><a href="http://stackoverflow.com/questions/6208363/sharing-a-url-with-a-query-string-on-twitter">Link</a></p>
                       
                     </div>
                   </div>
