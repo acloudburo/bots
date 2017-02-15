@@ -5,10 +5,117 @@
   <id>https://botsnews.cloudburo.net</id>
   <link href="https://botsnews.cloudburo.net"/>
   <link href="https://botsnews.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2017-02-13T11:46:18Z</updated>
+  <updated>2017-02-15T14:09:19Z</updated>
   <author>
     <name></name>
   </author>
+  <entry>
+    <title>Conversational Slack Bots 101 made with Api.ai</title>
+    <link rel="alternate" href="https://botsnews.cloudburo.net/2017/02/15/conversational-slack-bots-101-made-with-api-ai.html"/>
+    <id>https://botsnews.cloudburo.net/2017/02/15/conversational-slack-bots-101-made-with-api-ai.html</id>
+    <published>2017-02-15T14:09:19Z</published>
+    <updated>2017-02-15T14:09:20+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        Api.ai is a so called conversational user platform which allows you to build up your own bot solution which connects end user devices and your application with a conversational interface, delivered by a Api.ai agent, which you customised to your needs. 
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The following article will guide you through the necessary steps in order to get a Slack bot up and running.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        The following steps will be outlined
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;ul&gt;
+        &lt;li&gt;D&lt;span style=""&gt;esign conversations&lt;/span&gt;: &lt;span style=""&gt;Start with creating an agent at Api.ai. The agent will be the conversational part of your bot’s brain.&lt;/span&gt;&lt;/li&gt;
+       &lt;/ul&gt;
+       &lt;br&gt;
+       &lt;ul&gt;
+        &lt;li&gt;&lt;span style=""&gt;Connect:  to a web service:  &lt;/span&gt;&lt;span style=""&gt;After your bot learns how to understand people, it needs to start responding. You can connect your bot to a web service via a webhook.&lt;/span&gt;&lt;/li&gt;
+       &lt;/ul&gt;
+       &lt;br&gt;
+       &lt;ul&gt;
+        &lt;li&gt;&lt;span style=""&gt;Test: &lt;/span&gt;&lt;span style=""&gt;In the Api.ai developer account, you can find the test console, where you can try how well your agent understands you already. &lt;/span&gt;&lt;/li&gt;
+       &lt;/ul&gt;
+       &lt;br&gt;
+       &lt;ul&gt;
+        &lt;li&gt;&lt;span style=""&gt;Train: it more right away by adding more examples in existing scenarios or create new ones.&lt;/span&gt;&lt;/li&gt;
+       &lt;/ul&gt;
+       &lt;br&gt;
+       &lt;ul&gt;
+        &lt;li&gt;&lt;span style=""&gt;&lt;/span&gt;&lt;span style=""&gt;Create a Slack bot by truning on the Slack Integration and message type interaction&lt;/span&gt;&lt;/li&gt;
+       &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;span style=""&gt;&lt;br&gt;&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;ul&gt;
+        &lt;li&gt;&lt;span style=""&gt;Test in Slack.&lt;/span&gt;&lt;br&gt;&lt;/li&gt;
+       &lt;/ul&gt;
+       &lt;div&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;ul&gt;
+        &lt;li&gt;Publish it&lt;/li&gt;
+       &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Quite straightforward, you can read the full article here.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;a href="https://api.ai/blog/2016/03/17/Slack-Bots-101/"&gt;Link&lt;/a&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Are chatbots an evolution or a revolution?</title>
     <link rel="alternate" href="https://botsnews.cloudburo.net/2017/02/13/are-chatbots-an-evolution-or-a-revolution.html"/>
