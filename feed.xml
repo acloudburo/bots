@@ -14,7 +14,7 @@
     <link rel="alternate" href="https://botsnews.cloudburo.net/2017/02/15/conversational-slack-bots-101-made-with-api-ai.html"/>
     <id>https://botsnews.cloudburo.net/2017/02/15/conversational-slack-bots-101-made-with-api-ai.html</id>
     <published>2017-02-15T14:09:19Z</published>
-    <updated>2017-02-15T14:12:49+00:00</updated>
+    <updated>2017-02-16T06:11:06+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -23,7 +23,7 @@
     &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
     
     &lt;p&gt;&lt;div&gt;
-        Api.ai is a so called conversational user platform which allows you to build up your own bot solution which connects end user devices and your application with a conversational interface, delivered by a Api.ai agent, which you customised to your needs. 
+        Api.ai is a so called conversational user platform for building up your own bot solution which connects end user devices and your application with a conversational interface. 
       &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
@@ -35,7 +35,7 @@
        &lt;br&gt;
       &lt;/div&gt;
       &lt;div&gt;
-        The following steps will be outlined
+        In a nutshell
       &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
@@ -46,7 +46,7 @@
        &lt;/ul&gt;
        &lt;br&gt;
        &lt;ul&gt;
-        &lt;li&gt;&lt;span style=""&gt;Connect:  to a web service:  &lt;/span&gt;&lt;span style=""&gt;After your bot learns how to understand people, it needs to start responding. You can connect your bot to a web service via a webhook.&lt;/span&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;span style=""&gt;Connect to a web service:  &lt;/span&gt;&lt;span style=""&gt;After your bot learns how to understand people, it needs to start responding. You can connect your bot to a web service via a webhook.&lt;/span&gt;&lt;/li&gt;
        &lt;/ul&gt;
        &lt;br&gt;
        &lt;ul&gt;
@@ -58,7 +58,7 @@
        &lt;/ul&gt;
        &lt;br&gt;
        &lt;ul&gt;
-        &lt;li&gt;&lt;span style=""&gt;&lt;/span&gt;&lt;span style=""&gt;Create a Slack bot by truning on the Slack Integration and message type interaction&lt;/span&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;span style=""&gt;&lt;/span&gt;&lt;span style=""&gt;Create a Slack bot by turning on the Slack Integration and choose message type interaction&lt;/span&gt;&lt;/li&gt;
        &lt;/ul&gt;
       &lt;/div&gt;
       &lt;div&gt;
