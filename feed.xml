@@ -5,10 +5,40 @@
   <id>https://botsnews.cloudburo.net</id>
   <link href="https://botsnews.cloudburo.net"/>
   <link href="https://botsnews.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2017-02-15T14:09:19Z</updated>
+  <updated>2017-03-01T20:59:04Z</updated>
   <author>
     <name></name>
   </author>
+  <entry>
+    <title>5 lessons learned from making a banking chatbot (by Sidharth Garg)</title>
+    <link rel="alternate" href="https://botsnews.cloudburo.net/2017/03/01/5-lessons-learned-from-making-a-banking-chatbot-by-sidharth-garg.html"/>
+    <id>https://botsnews.cloudburo.net/2017/03/01/5-lessons-learned-from-making-a-banking-chatbot-by-sidharth-garg.html</id>
+    <published>2017-03-01T20:59:04Z</published>
+    <updated>2017-03-01T20:59:04+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;      Sidarth Garg shares his general learnings.&lt;br/&gt;
+    One distinguishing feature of his pilot was the target market: an economically and culturally diverse set of credit union members in Brooklyn. This group of users is probably very different from the tech-savvy users of most other chatbots.&lt;br/&gt;
+    Here are his takeaways:&lt;br/&gt;
+    1. There is a lot of curiosity&lt;br/&gt;
+    Despite probably not knowing too much about chatbots beforehand, people were genuinely interested in learning more about a new “virtual banking assistant”&lt;br/&gt;
+    2. Limited exploration&lt;br/&gt;
+    lthough many people understood the concept of a “banking assistant,” almost no one tried commands that weren’t suggested. Only a handful of people tried asking personal, open-ended questions.&lt;br/&gt;
+    3. Chatbots still need a human backup&lt;br/&gt;
+    He really believes that having empathy for users is crucial. That means routing the chat to a human when the conversation feels stuck.&lt;br/&gt;
+    4. Proactive reengagement&lt;br/&gt;
+    The biggest insight to come from his pilot was the need for reminders and reengagement. As with most product launches, the real challenge is user retention and growing periodic usage. This “launch curve” also applied to his pilot: Initial reception was strong but then slowly decreased. This is where smarter technology and marketing can help reverse the course.&lt;br/&gt;
+    5. Expect some strange responses&lt;br/&gt;
+    On the silly side, I got a few expected messages from people asking: “Are you human?” On the more nefarious side, I received a handful of vulgar, emoji-laden messages (some I didn’t even know existed, but I had to applaud their creativity). Perhaps I should add emoji-translation to the next version of Teller.&amp;lsquo;&lt;br/&gt;
+    You  can the full article here:&lt;br/&gt;
+    &lt;a href="http://venturebeat.com/2017/02/21/5-lessons-learned-from-making-a-banking-chatbot/"&gt;Link&lt;/a&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Conversational Slack Bots 101 made with Api.ai</title>
     <link rel="alternate" href="https://botsnews.cloudburo.net/2017/02/15/conversational-slack-bots-101-made-with-api-ai.html"/>
