@@ -5,16 +5,152 @@
   <id>https://botsnews.cloudburo.net</id>
   <link href="https://botsnews.cloudburo.net"/>
   <link href="https://botsnews.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2017-03-01T20:59:04Z</updated>
+  <updated>2017-05-27T21:57:00Z</updated>
   <author>
     <name></name>
   </author>
+  <entry>
+    <title>A Quick Guide to Identify Twitter Bots Using Machine Learning</title>
+    <link rel="alternate" href="https://botsnews.cloudburo.net/2017/05/27/a-quick-guide-to-identify-twitter-bots-using-machine-learning.html"/>
+    <id>https://botsnews.cloudburo.net/2017/05/27/a-quick-guide-to-identify-twitter-bots-using-machine-learning.html</id>
+    <published>2017-05-27T21:57:00Z</published>
+    <updated>2017-05-27T21:57:06+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/850ba374f36cbe4afb956725fd07f654.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+       &lt;div&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;div&gt;
+          A Quick Guide to Identify Twitterbots Using AI
+         &lt;div&gt;
+          &lt;div&gt;&lt;/div&gt;
+          &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;             &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/850ba374f36cbe4afb956725fd07f654.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;             &lt;/div&gt;
+          &lt;/div&gt;
+         &lt;/div&gt; Source:
+         &lt;a href="https://www.tune.com/"&gt;Tune&lt;/a&gt;
+         &lt;p&gt;In our last &lt;a href="https://blog.karna.ai/using-ai-to-combat-the-menace-of-fake-accounts-on-social-media-8af96bc71842"&gt;blog post&lt;/a&gt;, we discussed about how to identify ‘Fake Accounts’ or ‘Potential Spammers’ on Twitter. It is important to filter out such information to get most reliable and accurate insights. A lot of firms and individuals have taken the game forward and used Twitterbots to automate and fasten the content delivery. A &lt;a href="https://arxiv.org/pdf/1703.03107.pdf"&gt;study&lt;/a&gt; estimated that the number of active bots on twitter can be as high as 15% of the total users.&lt;/p&gt;
+         &lt;p&gt;Initially, Twitterbots were made to reduce human effort. Take &lt;a href="https://twitter.com/netflix_bot%5C"&gt;Netflix Bot&lt;/a&gt; for an example. It Tweets whenever a new show or movie is added on Netflix.&lt;/p&gt;
+         &lt;div&gt;
+          &lt;div&gt;&lt;/div&gt;
+          &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/37bcf73e21846945b5300ff7783a4035.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;             &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/37bcf73e21846945b5300ff7783a4035.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;             &lt;/div&gt;
+          &lt;/div&gt;
+         &lt;/div&gt; Netflix Bot in action.
+         &lt;p&gt;There are some extraordinary ones as well. For example, someone has created a very smart online version of the Big Ben, that marks the passing of every hour as shown in the tweet below. Now that humanity is spending more and more of its time online, it would be just a matter of time that our monuments start having an online presence too :).&lt;/p&gt;
+         &lt;div&gt;
+          &lt;div&gt;&lt;/div&gt;
+          &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/75c12d56ee14ec53ca3fc1abc60e2355.jpeg" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;             &lt;div&gt;
+           &lt;/div&gt;
+           &lt;div&gt;
+            &lt;div&gt;
+            &lt;/div&gt;
+           &lt;/div&gt;
+          &lt;/div&gt;
+         &lt;/div&gt;
+         &lt;p&gt;But, there is a large herd of Twitterbots who post a large amount of malicious and spam content on the platform. I am sure you can find some in your followers list as well. According to Wikipedia, bots had a role to play in the US Presidential Election — 2016 as well.&lt;/p&gt;
+         &lt;p&gt;&lt;strong&gt;Role of Twitter Bots in US Presidential Election&lt;/strong&gt;&lt;/p&gt;
+         &lt;blockquote&gt;
+           A subset of Twitter Bots programmed to complete social tasks played an important role in the United States 2016 Presidential Election. Researches estimated that pro-Trump bots generated four tweets for every pro-Clinton automated account and out-tweeted pro-Clinton bots 7:1 on relevant hashtags during the final debate. Deceiving twitter bots fooled candidates and campaign staffers into retweeting misappropriated quotes and accounts affiliated with incendiary ideals.
+          &lt;br&gt;-
+          &lt;a href="https://en.wikipedia.org/wiki/Twitterbot#Impact"&gt;Wikipedia&lt;/a&gt;
+         &lt;/blockquote&gt;
+         &lt;p&gt;Twitterbots and spammers try to cloud the views of other users by constantly promoting fake news and opinions. Given that there is no human effort required, bots can tirelessly keep on tweeting about a topic and help make it trending. For a political analyst, market researcher or anyone else seeking to do in-depth analysis using social media, it is important to identify and filter out these bots to get genuine unbiased opinions.&lt;/p&gt; The Hypothesis
+         &lt;p&gt;The idea behind our AI driven approach to identify bots on social media is based on this hypothesis: “Tweets made by bots are related to a very narrow topic/context while humans’ tweets are much more diverse”.&lt;/p&gt; How did we do it?
+         &lt;p&gt;To use this approach to automatically identify bots, we crawled the latest tweets posted by a large sample of Twitter accounts. For each account, we converted the Tweet text into vectors and calculated the similarity by checking the average distance metrics for these Tweets. We made sure that the sample of accounts were diverse.&lt;/p&gt;
+         &lt;p&gt;If a handle tweets about the same topic and theme, the tweets(individual data points) will be closely located in the hyperspace due to the semantic similarity. These closely packed similar tweets form a cluster. We can quantify the similarity by calculating the cosine distance between any two data points.&lt;/p&gt;
+         &lt;div&gt;
+          &lt;div&gt;&lt;/div&gt;
+          &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/dd9f3bada1a465fd51c1b9224ad5e770.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;             &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/dd9f3bada1a465fd51c1b9224ad5e770.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;             &lt;/div&gt;
+          &lt;/div&gt;
+         &lt;/div&gt; A representation of clusters
+         &lt;p&gt;The table below represents the results of the analysis. Here, Mean Distance is the average of all the cosine distances between the individual data points. Lesser the Mean Distance, more similar the Tweets. Clearly, you can infer this from the table. The aforementioned Big Ben Bot has the lowest Mean Distance among the chosen ones as its posts only contains the word ‘BONG’.&lt;/p&gt;
+         &lt;div&gt;
+          &lt;div&gt;&lt;/div&gt;
+          &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/ac38b1423e5bea95103949d18fdab912.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;             &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/ac38b1423e5bea95103949d18fdab912.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;             &lt;/div&gt;
+          &lt;/div&gt;
+         &lt;/div&gt; Mean Distance Table
+         &lt;p&gt;We chose a few ‘Spammers’ accounts also so as to highlight difference between a bot and a spammer. The spammers post about multiple topics time to time but bots post about a specific theme generally &lt;em&gt;(We did a similar analysis to detect spammers account. You can check it out &lt;/em&gt;&lt;a href="https://blog.karna.ai/using-ai-to-combat-the-menace-of-fake-accounts-on-social-media-8af96bc71842"&gt;&lt;em&gt;here&lt;/em&gt;&lt;/a&gt;&lt;em&gt;)&lt;/em&gt;. Thus, their Mean Distance is far greater than that of the bot’s. Notice that, the Mean Distance of &lt;a href="https://twitter.com/TOIIndiaNews"&gt;&lt;em&gt;TOIIndiaNews&lt;/em&gt;&lt;/a&gt;&lt;em&gt; (leading Indian news publisher) &lt;/em&gt;is nearer to the Mean Distance of the bots. Generally, such handles follow a standardized structure to post news. Therefore it has relatively lesser Mean Distance.&lt;/p&gt; Impacts of bots on the real world
+         &lt;p&gt;I am listing down a few cases where Twitterbots were influential and why it is important to identify them.&lt;/p&gt;
+         &lt;ul&gt;
+          &lt;li&gt;The number of followers on social media is considered a popularity metric for celebrities. &lt;em&gt;But is it really?&lt;/em&gt; As mentioned earlier, around 15% of Twitter users might be bots. Thus, number of followers doesn’t come out as a concrete metric for popularity. During 2012 US Presidential Elections, it was &lt;a href="https://www.forbes.com/sites/kashmirhill/2012/08/09/the-invasion-of-the-twitter-bots/"&gt;reported&lt;/a&gt; that &lt;strong&gt;Barack Obama’s 29.9% followers might be bots/fake and this number for Mitt Romney was around 21.9%. &lt;/strong&gt;The number of followers after removing bots and spammers can serve as a better popularity metric.&lt;/li&gt;
+          &lt;li&gt;Twitterbots have said to influence the opinions of voters by tweeting and retweeting tons of pro-Trump content during 2016 US Presidential Elections. As mentioned earlier, &lt;strong&gt;pro-Trump bots generated four tweets for every pro-Clinton automated account and out-tweeted pro-Clinton bots 7:1 on relevant hashtags during the final debate.&lt;/strong&gt; Some of the content shared by these bots was fake and deceiving. Thus it becomes really important to clearly identify these bots to get views and opinions of only from real people.&lt;/li&gt;
+          &lt;li&gt;Recently concluded French Presidential Elections also saw an involvement of bots. Just before the election, a massive 9 GB of classified campaign documents related to Emmanuel Macron were posted online. Twitterbots kept on posting about it and helped in making the topic a trending one for for hours before the election. Though, it seems to have had little effect on the outcome as Macron won comfortably (which we &lt;a href="https://blog.karna.ai/using-ai-to-predict-the-next-french-president-dc42484c8bbe"&gt;predicted correctly using AI&lt;/a&gt;).&lt;/li&gt;
+          &lt;li&gt;Suppose a brand hires a marketing agency for a publicity campaign. However, to judge the efficacy of the campaign it is import to understand whether the virality of the campaign was due to push from spammers/bots. In that case, it might have a negative effect on the brand and the brand will be in a fallacy of increased number of followers. These bots are not the real customers. Thus, it is a loss from both ends for the brand.&lt;/li&gt;
+         &lt;/ul&gt;
+         &lt;p&gt;These are a few notable places where bots have influenced the views of the audience. Though meant for a better role in the social media, bots are now being targeted mostly as spam on Twitter. Social media platforms are constantly being optimized to fight against such menace. Like any other technology, if used ethically, bots can help you in many ways. It can help you in customer support, marketing and general business development. Interesting times are ahead, as the future holds door for machine intelligence era. It is up to intelligent AI algorithms to help us phase out spam, bots and fake content from social media platforms.&lt;/p&gt;
+         &lt;p&gt;&lt;em&gt;If you are a marketing or research specialist interested in analyzing social media, we have flexible and cutting edge AI-based solutions for you. Do let us know your thoughts about our approach in the comments below.&lt;/em&gt;&lt;/p&gt;
+        &lt;/div&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+       &lt;/div&gt;
+       &lt;div&gt;
+        &lt;div&gt;
+         &lt;p&gt;&lt;a href="http://www.karna.ai/"&gt;&lt;em&gt;Karna.ai&lt;/em&gt;&lt;/a&gt;&lt;em&gt; is a division of &lt;/em&gt;&lt;a href="https://www.paralleldots.com/"&gt;&lt;em&gt;ParallelDots&lt;/em&gt;&lt;/a&gt;&lt;em&gt;. Karna is a social media marketing research platform. We collect and analyse millions of mentions from News, Twitter, Facebook and Instagram and deliver AI driven in-depth insights through automated reports and custom analysis.We would love to hear from you.&lt;/em&gt; &lt;em&gt;You can also drop us an email at &lt;a href="mailto:contact@paralleldots.com"&gt;contact@paralleldots.com&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+        &lt;/div&gt;
+       &lt;/div&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;a href="https://blog.karna.ai/a-quick-guide-to-identify-twitterbots-using-ai-44ca424cafc?utm_source=forum&amp;amp;utm_medium=group_post&amp;amp;utm_campaign=Data%20Tau%20"&gt;Link&lt;/a&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>5 lessons learned from making a banking chatbot (by Sidharth Garg)</title>
     <link rel="alternate" href="https://botsnews.cloudburo.net/2017/03/01/5-lessons-learned-from-making-a-banking-chatbot-by-sidharth-garg.html"/>
     <id>https://botsnews.cloudburo.net/2017/03/01/5-lessons-learned-from-making-a-banking-chatbot-by-sidharth-garg.html</id>
     <published>2017-03-01T20:59:04Z</published>
-    <updated>2017-05-02T21:40:29+00:00</updated>
+    <updated>2017-05-27T21:44:36+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -47,7 +183,7 @@
     <link rel="alternate" href="https://botsnews.cloudburo.net/2017/02/15/conversational-slack-bots-101-made-with-api-ai.html"/>
     <id>https://botsnews.cloudburo.net/2017/02/15/conversational-slack-bots-101-made-with-api-ai.html</id>
     <published>2017-02-15T14:09:19Z</published>
-    <updated>2017-05-02T20:35:36+00:00</updated>
+    <updated>2017-05-27T21:44:36+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -154,7 +290,7 @@
     <link rel="alternate" href="https://botsnews.cloudburo.net/2017/02/13/are-chatbots-an-evolution-or-a-revolution.html"/>
     <id>https://botsnews.cloudburo.net/2017/02/13/are-chatbots-an-evolution-or-a-revolution.html</id>
     <published>2017-02-13T11:46:18Z</published>
-    <updated>2017-05-02T20:35:36+00:00</updated>
+    <updated>2017-05-27T21:44:36+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -247,7 +383,7 @@
     <link rel="alternate" href="https://botsnews.cloudburo.net/2017/02/09/how-can-chatbots-be-the-future-if-they-are-stuck-in-the-1960s.html"/>
     <id>https://botsnews.cloudburo.net/2017/02/09/how-can-chatbots-be-the-future-if-they-are-stuck-in-the-1960s.html</id>
     <published>2017-02-09T06:17:29Z</published>
-    <updated>2017-05-02T20:35:36+00:00</updated>
+    <updated>2017-05-27T21:44:36+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -270,7 +406,7 @@
     <link rel="alternate" href="https://botsnews.cloudburo.net/2017/02/07/what-we-learned-from-bots-before-they-were-cool.html"/>
     <id>https://botsnews.cloudburo.net/2017/02/07/what-we-learned-from-bots-before-they-were-cool.html</id>
     <published>2017-02-07T06:05:39Z</published>
-    <updated>2017-05-02T20:35:36+00:00</updated>
+    <updated>2017-05-27T21:44:36+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -314,7 +450,7 @@
     <link rel="alternate" href="https://botsnews.cloudburo.net/2017/01/28/understanding-bots-through-4-interface-categories.html"/>
     <id>https://botsnews.cloudburo.net/2017/01/28/understanding-bots-through-4-interface-categories.html</id>
     <published>2017-01-28T07:00:41Z</published>
-    <updated>2017-05-02T20:35:36+00:00</updated>
+    <updated>2017-05-27T21:44:36+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -340,7 +476,7 @@
     <link rel="alternate" href="https://botsnews.cloudburo.net/2017/01/27/on-bots-language-and-making-technologydisappear.html"/>
     <id>https://botsnews.cloudburo.net/2017/01/27/on-bots-language-and-making-technologydisappear.html</id>
     <published>2017-01-27T06:47:23Z</published>
-    <updated>2017-05-02T20:35:36+00:00</updated>
+    <updated>2017-05-27T21:44:36+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -368,7 +504,7 @@
     <link rel="alternate" href="https://botsnews.cloudburo.net/2017/01/26/wit-ai-bot-engine-key-concepts.html"/>
     <id>https://botsnews.cloudburo.net/2017/01/26/wit-ai-bot-engine-key-concepts.html</id>
     <published>2017-01-26T21:38:08Z</published>
-    <updated>2017-05-02T20:35:36+00:00</updated>
+    <updated>2017-05-27T21:44:36+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -394,7 +530,7 @@
     <link rel="alternate" href="https://botsnews.cloudburo.net/2017/01/26/the-bots-landscape-evolves.html"/>
     <id>https://botsnews.cloudburo.net/2017/01/26/the-bots-landscape-evolves.html</id>
     <published>2017-01-26T07:07:37Z</published>
-    <updated>2017-05-02T20:35:36+00:00</updated>
+    <updated>2017-05-27T21:44:36+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
