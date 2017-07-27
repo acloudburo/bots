@@ -55,12 +55,6 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://botsnews.cloudburo.net/2017/07/26/building-m-uber-engineering-a-high-performance-web-app-for-the-global-market-by-.html</loc>
-    <lastmod>2017-07-26</lastmod>
-    <priority>0.7</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
     <loc>https://botsnews.cloudburo.net/2017/01/27/on-bots-language-and-making-technologydisappear.html</loc>
     <lastmod>2017-07-26</lastmod>
     <priority>0.7</priority>
@@ -80,12 +74,6 @@
   </url>
   <url>
     <loc>https://botsnews.cloudburo.net/2017/02/07/what-we-learned-from-bots-before-they-were-cool.html</loc>
-    <lastmod>2017-07-26</lastmod>
-    <priority>0.7</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://botsnews.cloudburo.net/2017/05/27/a-quick-guide-to-identify-twitter-bots-using-machine-learning.html</loc>
     <lastmod>2017-07-26</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
@@ -187,25 +175,7 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://botsnews.cloudburo.net/2017/07/26.html</loc>
-    <lastmod>2017-07-26</lastmod>
-    <priority>0.8</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
     <loc>https://botsnews.cloudburo.net/2017/07/12.html</loc>
-    <lastmod>2017-07-26</lastmod>
-    <priority>0.8</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://botsnews.cloudburo.net/2017/05.html</loc>
-    <lastmod>2017-07-26</lastmod>
-    <priority>0.9</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://botsnews.cloudburo.net/2017/05/27.html</loc>
     <lastmod>2017-07-26</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>

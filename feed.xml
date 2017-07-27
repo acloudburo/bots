@@ -5,21 +5,10 @@
   <id>https://botsnews.cloudburo.net</id>
   <link href="https://botsnews.cloudburo.net"/>
   <link href="https://botsnews.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2017-07-26T00:00:00Z</updated>
+  <updated>2017-07-12T05:28:26Z</updated>
   <author>
     <name></name>
   </author>
-  <entry>
-    <title/>
-    <link rel="alternate" href="https://botsnews.cloudburo.net/2017/07/26/building-m-uber-engineering-a-high-performance-web-app-for-the-global-market-by-.html"/>
-    <id>https://botsnews.cloudburo.net/2017/07/26/building-m-uber-engineering-a-high-performance-web-app-for-the-global-market-by-.html</id>
-    <published>2017-07-26T00:00:00Z</published>
-    <updated>2017-07-26T23:14:42+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html"></content>
-  </entry>
   <entry>
     <title>Expressive launches emotionally responsive avatars (by Khari Johnson)</title>
     <link rel="alternate" href="https://botsnews.cloudburo.net/2017/07/12/expressive-launches-emotionally-responsive-avatars-by-khari-johnson.html"/>
@@ -34,25 +23,6 @@
     &lt;p&gt;&lt;span/&gt;      The vast majority of language exchanged between people isn’t with words — it’s nonverbal. That’s why the newly formed startup Expressive is making stylized avatars that mimic body language and human emotion. The avatars detect human emotion through the use of sentiment analysis, or understanding the tone in words used by a human. The avatars then respond with emotional reactions like happiness, sadness, shock, disgust, and anger.&lt;br/&gt;
     Created by Pandorabots, the conversational bot is more than a decade old and on multiple occasions has won the Loebner Prize, an annual international competition for convincing humans they are speaking to a human instead of a bot.&lt;br/&gt;
     &lt;a href="https://venturebeat.com/2017/07/11/expressive-ai-launches-emotionally-responsive-avatars/"&gt;Link&lt;/a&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>A Quick Guide to Identify Twitter Bots Using Machine Learning</title>
-    <link rel="alternate" href="https://botsnews.cloudburo.net/2017/05/27/a-quick-guide-to-identify-twitter-bots-using-machine-learning.html"/>
-    <id>https://botsnews.cloudburo.net/2017/05/27/a-quick-guide-to-identify-twitter-bots-using-machine-learning.html</id>
-    <published>2017-05-27T21:57:00Z</published>
-    <updated>2017-07-26T23:14:39+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;      Role of Twitter Bots in US Presidential Election&lt;br/&gt;
-    Barack Obama’s 29.9% followers might be bots/fake and this number for Mitt Romney was around 21.9%.&lt;br/&gt;
-    pro-Trump bots generated four tweets for every pro-Clinton automated account and out-tweeted pro-Clinton bots 7:1 on relevant hashtags during the final debate.&lt;br/&gt;
-    &lt;a href="https://blog.karna.ai/a-quick-guide-to-identify-twitterbots-using-ai-44ca424cafc?utm_source=forum&amp;amp;utm_medium=group_post&amp;amp;utm_campaign=Data%20Tau%20"&gt;Link&lt;/a&gt;&lt;/p&gt;
     
   &lt;/div&gt;
 &lt;/div&gt;</content>
