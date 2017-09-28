@@ -5,10 +5,27 @@
   <id>https://botsnews.cloudburo.net</id>
   <link href="https://botsnews.cloudburo.net"/>
   <link href="https://botsnews.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2017-09-27T05:23:17Z</updated>
+  <updated>2017-09-28T16:17:14Z</updated>
   <author>
     <name></name>
   </author>
+  <entry>
+    <title>The rise of the voice interface</title>
+    <link rel="alternate" href="https://botsnews.cloudburo.net/2017/09/28/the-rise-of-the-voice-interface.html"/>
+    <id>https://botsnews.cloudburo.net/2017/09/28/the-rise-of-the-voice-interface.html</id>
+    <published>2017-09-28T16:17:14Z</published>
+    <updated>2017-09-28T16:17:15+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;      There is a reason voice interfaces, quirky and novel only a few years ago, are seeing such speedy adoption. They adapt to human behavior better than the interfaces that came before them, which include the GUI and a mouse, the Touch UI and our fingers. Now it’s the Conversational UI and voice. With each advancement of the human-to-machine interface, we got better at making the interaction more human. And, as you might expect, marketers jumped at this opportunity.&lt;br/&gt;
+    &lt;a href="https://venturebeat.com/2017/07/16/the-rise-of-the-voice-interface/"&gt;Link&lt;/a&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>10 Ways Slackbots Will Change the Future of Work</title>
     <link rel="alternate" href="https://botsnews.cloudburo.net/2017/09/27/10-ways-slackbots-will-change-the-future-of-work.html"/>
