@@ -49,6 +49,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://botsnews.cloudburo.net/2017/10/09/instacart-ai-helps-personal-shoppers-buy-groceries-faster.html</loc>
+    <lastmod>2017-10-09</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://botsnews.cloudburo.net/2017/01/26/the-bots-landscape-evolves.html</loc>
     <lastmod>2017-08-13</lastmod>
     <priority>0.7</priority>
@@ -175,13 +181,13 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://botsnews.cloudburo.net/tags/chat.html</loc>
+    <loc>https://botsnews.cloudburo.net/tags/ai.html</loc>
     <lastmod>2017-08-13</lastmod>
     <priority>0.9</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://botsnews.cloudburo.net/tags/ai.html</loc>
+    <loc>https://botsnews.cloudburo.net/tags/chat.html</loc>
     <lastmod>2017-08-13</lastmod>
     <priority>0.9</priority>
     <changefreq>daily</changefreq>
@@ -190,6 +196,18 @@
     <loc>https://botsnews.cloudburo.net/2017.html</loc>
     <lastmod>2017-08-13</lastmod>
     <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://botsnews.cloudburo.net/2017/10.html</loc>
+    <lastmod>2017-08-13</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://botsnews.cloudburo.net/2017/10/09.html</loc>
+    <lastmod>2017-08-13</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
