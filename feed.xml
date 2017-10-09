@@ -5,20 +5,26 @@
   <id>https://botsnews.cloudburo.net</id>
   <link href="https://botsnews.cloudburo.net"/>
   <link href="https://botsnews.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2017-10-09T00:00:00Z</updated>
+  <updated>2017-10-09T10:06:33Z</updated>
   <author>
     <name></name>
   </author>
   <entry>
-    <title/>
+    <title>Instacart AI helps personal shoppers buy groceries faster</title>
     <link rel="alternate" href="https://botsnews.cloudburo.net/2017/10/09/instacart-ai-helps-personal-shoppers-buy-groceries-faster.html"/>
     <id>https://botsnews.cloudburo.net/2017/10/09/instacart-ai-helps-personal-shoppers-buy-groceries-faster.html</id>
-    <published>2017-10-09T00:00:00Z</published>
-    <updated>2017-10-09T16:35:05+00:00</updated>
+    <published>2017-10-09T10:06:33Z</published>
+    <updated>2017-10-09T17:01:47+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
-    <content type="html"></content>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;      There are thousands of “personal shoppers” who physically go to a store and pick out your groceries. They might not actually deliver the groceries (that’s a job for another worker), and the task the shoppers perform is one that can be perfected over time — say, grabbing the veggies first and then the cookies, followed by the coffee because it is closer to the checkout lane at Whole Foods. Curiously, this entire process is one that can be optimized using AI even though the data is sometimes a little scarce. Instacart doesn’t actually use its own warehouse, doesn’t have access to the store maps, and can’t even connect to a product database, but it can still use reams of data. That’s because the items are always scanned or weighed when shopping.&lt;br/&gt;
+    &lt;a href="https://venturebeat.com/2017/07/12/instacart-ai-helps-personal-shoppers-buy-groceries-faster/"&gt;Link&lt;/a&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
   </entry>
   <entry>
     <title>Marketers need to embrace artificial intelligence</title>
