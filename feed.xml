@@ -5,16 +5,27 @@
   <id>https://botsnews.cloudburo.net</id>
   <link href="https://botsnews.cloudburo.net"/>
   <link href="https://botsnews.cloudburo.net/feed.xml" rel="self"/>
-  <updated>2017-09-29T07:19:57Z</updated>
+  <updated>2017-10-09T00:00:00Z</updated>
   <author>
     <name></name>
   </author>
+  <entry>
+    <title/>
+    <link rel="alternate" href="https://botsnews.cloudburo.net/2017/10/09/instacart-ai-helps-personal-shoppers-buy-groceries-faster.html"/>
+    <id>https://botsnews.cloudburo.net/2017/10/09/instacart-ai-helps-personal-shoppers-buy-groceries-faster.html</id>
+    <published>2017-10-09T00:00:00Z</published>
+    <updated>2017-10-09T16:35:05+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html"></content>
+  </entry>
   <entry>
     <title>Marketers need to embrace artificial intelligence</title>
     <link rel="alternate" href="https://botsnews.cloudburo.net/2017/09/29/marketers-need-to-embrace-artificial-intelligence.html"/>
     <id>https://botsnews.cloudburo.net/2017/09/29/marketers-need-to-embrace-artificial-intelligence.html</id>
     <published>2017-09-29T07:19:57Z</published>
-    <updated>2017-09-29T07:19:58+00:00</updated>
+    <updated>2017-10-09T16:28:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -31,7 +42,7 @@
     <link rel="alternate" href="https://botsnews.cloudburo.net/2017/09/28/the-rise-of-the-voice-interface.html"/>
     <id>https://botsnews.cloudburo.net/2017/09/28/the-rise-of-the-voice-interface.html</id>
     <published>2017-09-28T16:17:14Z</published>
-    <updated>2017-09-28T16:17:15+00:00</updated>
+    <updated>2017-10-09T16:28:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -48,7 +59,7 @@
     <link rel="alternate" href="https://botsnews.cloudburo.net/2017/09/27/10-ways-slackbots-will-change-the-future-of-work.html"/>
     <id>https://botsnews.cloudburo.net/2017/09/27/10-ways-slackbots-will-change-the-future-of-work.html</id>
     <published>2017-09-27T05:23:17Z</published>
-    <updated>2017-09-27T05:23:18+00:00</updated>
+    <updated>2017-10-09T16:28:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -66,7 +77,7 @@
     <link rel="alternate" href="https://botsnews.cloudburo.net/2017/07/12/expressive-launches-emotionally-responsive-avatars-by-khari-johnson.html"/>
     <id>https://botsnews.cloudburo.net/2017/07/12/expressive-launches-emotionally-responsive-avatars-by-khari-johnson.html</id>
     <published>2017-07-12T05:28:26Z</published>
-    <updated>2017-08-13T12:35:09+00:00</updated>
+    <updated>2017-10-09T16:28:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -84,7 +95,7 @@
     <link rel="alternate" href="https://botsnews.cloudburo.net/2017/03/01/5-lessons-learned-from-making-a-banking-chatbot-by-sidharth-garg.html"/>
     <id>https://botsnews.cloudburo.net/2017/03/01/5-lessons-learned-from-making-a-banking-chatbot-by-sidharth-garg.html</id>
     <published>2017-03-01T20:59:04Z</published>
-    <updated>2017-08-13T12:35:09+00:00</updated>
+    <updated>2017-10-09T16:28:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -117,7 +128,7 @@
     <link rel="alternate" href="https://botsnews.cloudburo.net/2017/02/15/conversational-slack-bots-101-made-with-api-ai.html"/>
     <id>https://botsnews.cloudburo.net/2017/02/15/conversational-slack-bots-101-made-with-api-ai.html</id>
     <published>2017-02-15T14:09:19Z</published>
-    <updated>2017-08-13T12:35:09+00:00</updated>
+    <updated>2017-10-09T16:28:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -224,7 +235,7 @@
     <link rel="alternate" href="https://botsnews.cloudburo.net/2017/02/13/are-chatbots-an-evolution-or-a-revolution.html"/>
     <id>https://botsnews.cloudburo.net/2017/02/13/are-chatbots-an-evolution-or-a-revolution.html</id>
     <published>2017-02-13T11:46:18Z</published>
-    <updated>2017-08-13T12:35:09+00:00</updated>
+    <updated>2017-10-09T16:28:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -317,7 +328,7 @@
     <link rel="alternate" href="https://botsnews.cloudburo.net/2017/02/09/how-can-chatbots-be-the-future-if-they-are-stuck-in-the-1960s.html"/>
     <id>https://botsnews.cloudburo.net/2017/02/09/how-can-chatbots-be-the-future-if-they-are-stuck-in-the-1960s.html</id>
     <published>2017-02-09T06:17:29Z</published>
-    <updated>2017-08-13T12:35:09+00:00</updated>
+    <updated>2017-10-09T16:28:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -340,7 +351,7 @@
     <link rel="alternate" href="https://botsnews.cloudburo.net/2017/02/07/what-we-learned-from-bots-before-they-were-cool.html"/>
     <id>https://botsnews.cloudburo.net/2017/02/07/what-we-learned-from-bots-before-they-were-cool.html</id>
     <published>2017-02-07T06:05:39Z</published>
-    <updated>2017-08-13T12:35:09+00:00</updated>
+    <updated>2017-10-09T16:28:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -384,7 +395,7 @@
     <link rel="alternate" href="https://botsnews.cloudburo.net/2017/01/28/understanding-bots-through-4-interface-categories.html"/>
     <id>https://botsnews.cloudburo.net/2017/01/28/understanding-bots-through-4-interface-categories.html</id>
     <published>2017-01-28T07:00:41Z</published>
-    <updated>2017-08-13T12:35:09+00:00</updated>
+    <updated>2017-10-09T16:28:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -410,7 +421,7 @@
     <link rel="alternate" href="https://botsnews.cloudburo.net/2017/01/27/on-bots-language-and-making-technologydisappear.html"/>
     <id>https://botsnews.cloudburo.net/2017/01/27/on-bots-language-and-making-technologydisappear.html</id>
     <published>2017-01-27T06:47:23Z</published>
-    <updated>2017-08-13T12:35:09+00:00</updated>
+    <updated>2017-10-09T16:28:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -438,7 +449,7 @@
     <link rel="alternate" href="https://botsnews.cloudburo.net/2017/01/26/wit-ai-bot-engine-key-concepts.html"/>
     <id>https://botsnews.cloudburo.net/2017/01/26/wit-ai-bot-engine-key-concepts.html</id>
     <published>2017-01-26T21:38:08Z</published>
-    <updated>2017-08-13T12:35:09+00:00</updated>
+    <updated>2017-10-09T16:28:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -464,7 +475,7 @@
     <link rel="alternate" href="https://botsnews.cloudburo.net/2017/01/26/the-bots-landscape-evolves.html"/>
     <id>https://botsnews.cloudburo.net/2017/01/26/the-bots-landscape-evolves.html</id>
     <published>2017-01-26T07:07:37Z</published>
-    <updated>2017-08-13T12:35:09+00:00</updated>
+    <updated>2017-10-09T16:28:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
