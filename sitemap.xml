@@ -50,7 +50,7 @@
   </url>
   <url>
     <loc>https://botsnews.cloudburo.net/2017/10/09/instacart-ai-helps-personal-shoppers-buy-groceries-faster.html</loc>
-    <lastmod>2017-10-09</lastmod>
+    <lastmod>2017-10-10</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
   </url>
@@ -181,13 +181,13 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://botsnews.cloudburo.net/tags/ai.html</loc>
+    <loc>https://botsnews.cloudburo.net/tags/chat.html</loc>
     <lastmod>2017-10-09</lastmod>
     <priority>0.9</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://botsnews.cloudburo.net/tags/chat.html</loc>
+    <loc>https://botsnews.cloudburo.net/tags/ai.html</loc>
     <lastmod>2017-10-09</lastmod>
     <priority>0.9</priority>
     <changefreq>daily</changefreq>
